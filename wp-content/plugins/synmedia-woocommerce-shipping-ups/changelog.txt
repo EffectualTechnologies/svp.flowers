@@ -1,0 +1,141 @@
+*** UPS Shipping Method Changelog ***
+
+2016.01.27 - version 2.2.0
+  * Fix no rates
+
+2015.11.14 - version 2.1.9
+  * Fix Checkout
+
+2015.11.05 - version 2.1.8
+  * Fix Enabled status in general shipping page
+
+2015.04.07 - version 2.1.7
+  * Fix price adjustment
+
+2015.03.25 - version 2.1.5
+  * Fix multiple units
+  * Fix method name
+
+2014.11.21 - version 2.1.4
+  * Fix tracking
+
+2014.10.03 - version 2.1.3
+  * Fix method not saving
+
+2014.09.18 - version 2.1.2
+  * Added service availability chooser
+  * Added subtotal to handling fee possibility
+  * Fix <a> tag not closing
+
+2014.09.09 - version 2.1.1
+  * Fix rate not updating after saving new settings
+  * Fix "Fatal error: Class 'SYN_Shipping_Method' not found"
+
+2014.05.27 - version 2.1.0
+  * Fix 404 error
+
+2014.05.21 - version 2.0.9
+  * Fix order 404
+
+2014.05.15 - version 2.0.8
+  * Added a way to select Residential address option
+
+2014.05.07 - version 2.0.7
+  * Clear transient on activation or update
+
+2014.05.07 - version 2.0.6
+  * Fix transient
+
+2014.04.30 - version 2.0.5
+  * Fix blank settings
+
+2014.04.22 - version 2.0.4
+  * Changed tracking
+
+2014.04.17 - version 2.0.3
+  * Fix Debug
+
+2014.04.15 - version 2.0.2
+  * Fix Parcel Packing in Weight of all item
+
+2014.04.09 - version 2.0.1
+  * Fix Add Tracking button
+
+2014.04.09 - version 2.0.0
+  * Added multiple Tracking
+  * Fix bug in My Account
+
+2014.04.08 - version 1.1.9
+  * Added integrated Tracking
+  * Cleanup of old code
+
+2014.04.03 - version 1.1.8
+  * Fixed sprintf error
+
+2014.04.01 - version 1.1.7
+  * Fixed shipping cost
+
+2014.03.28 - version 1.1.6
+  * Fixed bug with weight
+  * Added Box Packing
+  * Updated SYN dependencies
+  * Cleanup code
+  * Changed error text
+
+2014.03.26 - version 1.1.5
+  * Updated auto updater
+
+2014.02.26 - version 1.1.4
+  * Added SYN dependencies
+
+2014.01.28 - version 1.1.3
+  * Fix WooCommerce version notice
+
+2014.01.22 - version 1.1.2
+  * Added support for WooCommerce 2.1
+
+2013.10.23 - version 1.1.1
+  * Fix bug with debug
+  * Fix warning in php
+  * Fix link to UPS settings
+
+2013.09.04 - version 1.1.0
+  * Added insurance
+
+2013.06.20 - version 1.0.9
+  * Fixed error showing with debug off
+
+2013.06.14 - version 1.0.8
+  * Address validation for US
+  * Fixed international methods
+  * Added more debug msg
+
+2013.05.24 - version 1.0.7
+  * Added multiple addresses
+  * Added css for more readable debug
+  * Fixed Poland shipping
+  * Fixed & sign
+  * Moved XML to folder
+
+2013.04.26 - version 1.0.6
+  * Added a way to change shipping methods name
+  * Added update from Wordpress
+  * Fix max weight and weight rounding
+
+2013.04.23 - version 1.0.5
+  * Changed shipping name
+
+2013.04.22 - version 1.0.4
+  * Fixed weight addition
+
+2013.04.22 - version 1.0.3
+  * Fixed weight with quantity
+
+2013.04.16 - version 1.0.2
+  * Added multi units and currency
+
+2013.04.12 - version 1.0.1
+  * Added auto updates
+
+2013.04.12 - version 1.0.0
+  * First Release

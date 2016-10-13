@@ -1,0 +1,21 @@
+<html>
+<head>
+<script
+			  src="https://code.jquery.com/jquery-2.2.3.min.js"
+			  integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="
+			  crossorigin="anonymous"></script>
+</head>
+<body>
+<script>
+jsonObj={"order":{"id":8128,"order_number":8128,"order_key":"wc_order_571d0e94dd39d","created_at":"2016-04-24T18:21:09Z","updated_at":"2016-04-24T18:21:09Z","completed_at":"2016-04-24T18:21:09Z","status":"completed","currency":"USD","total":"0.00","subtotal":"0.00","total_line_items_quantity":1,"total_tax":"0.00","total_shipping":"0.00","cart_tax":"0.00","shipping_tax":"0.00","total_discount":"0.00","shipping_methods":"","payment_details":{"method_id":"stripe","method_title":"Credit Card","paid":true},"billing_address":{"first_name":"Marakie","last_name":"Getachew","company":"","address_1":"815 16th St NW","address_2":"","city":"Washington","state":"DC","postcode":"20006","country":"US","email":"marakie.getachew@gmail.com","phone":"5712350888"},"shipping_address":{"first_name":"Marakie","last_name":"Getachew","company":"","address_1":"815 16th St NW","address_2":"","city":"Washington","state":"DC","postcode":"20006","country":"US"},"note":"","customer_ip":"73.133.9.2","customer_user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:45.0) Gecko/20100101 Firefox/45.0","customer_id":3,"view_order_url":"http://svpflowers2016.wpengine.com/my-account/view-order/8128","line_items":[{"id":35,"subtotal":"0.00","subtotal_tax":"0.00","total":"0.00","total_tax":"0.00","price":"0.00","quantity":1,"tax_class":null,"name":"SVP Flowers Bundle Gift Subscription","product_id":8075,"sku":"","meta":[{"key":"gift-subscription-length","label":"Gift Subscription Length","value":"1 month (2 bundles, $110)"}]}],"shipping_lines":[],"tax_lines":[{"id":36,"rate_id":"1","code":"US-DC-STATE TAX-1","title":"State Tax","total":"0.00","compound":false}],"fee_lines":[],"coupon_lines":[],"customer":{"id":3,"created_at":"2016-04-05T18:36:21Z","email":"marakie.getachew@gmail.com","first_name":"Marakiechew","last_name":"Getachew","username":"mgetachew","role":"administrator","last_order_id":"8128","last_order_date":"2016-04-24T18:21:09Z","orders_count":2,"total_spent":"0.00","avatar_url":"http://0.gravatar.com/avatar/?s=96","billing_address":{"first_name":"Marakie","last_name":"Getachew","company":"","address_1":"815 16th St NW","address_2":"","city":"Washington","state":"DC","postcode":"20006","country":"US","email":"marakie.getachew@gmail.com","phone":"5712350888"},"shipping_address":{"first_name":"Marakie","last_name":"Getachew","company":"","address_1":"815 16th St NW","address_2":"","city":"Washington","state":"DC","postcode":"20006","country":"US"}}}}
+$.ajax({
+    url: "http://svpflowers2016.wpengine.com/wp-deliv-woocommerce.php",
+    type: 'POST',
+    data: jsonObj,
+    dataType: 'json',
+    success: function (data) {
+        console.log(data);
+    }
+});
+</script>
+</body>

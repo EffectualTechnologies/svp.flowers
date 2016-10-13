@@ -1,0 +1,510 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Canada Post for WooCommerce\n"
+"POT-Creation-Date: 2014-04-10 09:12-0500\n"
+"PO-Revision-Date: 2014-04-10 09:15-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-syn-shipping-method.php:78
+#, php-format
+msgid "%s: Enter calculate shipping function."
+msgstr "%s: Entrer dans la fonction \"calculate shipping\"."
+
+#: ../class-syn-shipping-method.php:82
+#, php-format
+msgid "%s: No country or Zip / postcode provided. Abording."
+msgstr "%s: Aucun pays ou Code postal fourni. Abandon."
+
+#: ../class-syn-shipping-method.php:89
+#, php-format
+msgid "%s: No origin address enabled. Abording."
+msgstr "%s: Aucune adresse d'origine fourni. Abandon."
+
+#: ../class-syn-shipping-method.php:96
+#, php-format
+msgid "%s: No shipping method selected."
+msgstr "%s: Aucune méthode de transport sélectionnée."
+
+#: ../class-syn-shipping-method.php:113
+#, php-format
+msgid "%s: Shipping update required."
+msgstr "%s: Mise à jour du devis requise."
+
+#: ../class-syn-shipping-method.php:121
+#, php-format
+msgid "%s: Shipping update not required."
+msgstr "%s: Mise à jour du devis non requise."
+
+#: ../class-syn-shipping-method.php:256
+#, php-format
+msgid "Product #%d is virtual. Skipping."
+msgstr "Produit #%d est virtuel. Passer."
+
+#: ../class-syn-shipping-method.php:261
+#, php-format
+msgid ""
+"Product <a href=\"%s\" target=\"_blank\">#%d</a> is missing dimensions and / "
+"or weight. Aborting %s quotes."
+msgstr ""
+"Le produit <a href=\"%s\" target=\"_blank\">#%d</a> manque ses dimensions "
+"et /ou son poids. Abandon du devis %s."
+
+#: ../class-syn-shipping-method.php:295
+msgid "Custom Boxes"
+msgstr "Boîtes personnalisées"
+
+#: ../class-syn-shipping-method.php:337
+msgid "Outer Length"
+msgstr "Longueur ext."
+
+#: ../class-syn-shipping-method.php:338
+msgid "Outer Width"
+msgstr "Largeur ext."
+
+#: ../class-syn-shipping-method.php:339
+msgid "Outer Height"
+msgstr "hauteur ext."
+
+#: ../class-syn-shipping-method.php:340
+msgid "Inner Length"
+msgstr "Longueur int."
+
+#: ../class-syn-shipping-method.php:341
+msgid "Inner Width"
+msgstr "Largeur int."
+
+#: ../class-syn-shipping-method.php:342
+msgid "Inner Height"
+msgstr "Hauteur int."
+
+#: ../class-syn-shipping-method.php:343
+msgid "Box Weight"
+msgstr "Poids boîte"
+
+#: ../class-syn-shipping-method.php:344
+msgid "Max Weight"
+msgstr "Poids max."
+
+#: ../class-syn-shipping-method.php:350
+msgid "Add Box"
+msgstr "Ajouter une boîte"
+
+#: ../class-syn-shipping-method.php:351
+msgid "Remove selected box(es)"
+msgstr "Retirer boîte sélectionnée(s)"
+
+#: ../class-syn-shipping-method.php:354
+#, php-format
+msgid ""
+"Items will be packed into these boxes based on item dimensions and volume. "
+"Outer dimensions will be passed to %s, whereas inner dimensions will be used "
+"for packing. Items not fitting into boxes will be packed individually."
+msgstr ""
+"Les articles seront emballés dans ces boîtes basées sur les dimensions et le "
+"volume. Les dimensions extérieures seront transmises à %s, tandis que les "
+"dimensions intérieures seront utilisés pour l'emballage. Les articles ne qui "
+"ne peuvent entrés dans des boîtes seront emballés individuellement."
+
+#: ../class-syn-shipping-method.php:501
+msgid "Services"
+msgstr "Services"
+
+#: ../class-syn-shipping-method.php:508
+msgid "Method name"
+msgstr "Nom de la méthode"
+
+#: ../class-syn-shipping-method.php:508
+msgid "The method name that will be shown on the cart and checkout."
+msgstr "Le nom de la méthode sera affiché dans le panier et la caisse."
+
+#: ../class-syn-shipping-method.php:510
+msgid "Price ajustment"
+msgstr "Ajustement de prix"
+
+#: ../class-syn-shipping-method.php:510
+msgid ""
+"Surcharge for this method, enter either a fixed amount (Ex.: 3.34) or a % "
+"amount (Ex.: 3.34%)"
+msgstr ""
+"Supplément pour cette méthode, saisissez un montant fixe (ex.: 3.34) ou un "
+"montant en % (Ex.: 3.34%)"
+
+#: ../class-syn-shipping-method.php:512
+msgid "Enabled"
+msgstr "Activer"
+
+#: ../class-syn-shipping-method.php:512
+msgid "Enable this shipping method or not"
+msgstr "Activer cette méthode de transport ou non"
+
+#: ../class-syn-shipping-method.php:531
+msgid "Ex.: 3.34 or 3.34%"
+msgstr "Ex. : 3.34 ou 3.34%"
+
+#: ../syn-functions.php:46
+msgid "Package Tracking"
+msgstr "Suivi des colis"
+
+#: ../syn-functions.php:246 ../syn-functions.php:288
+msgid "Carrier"
+msgstr "Transporteur"
+
+#: ../syn-functions.php:256 ../syn-functions.php:298
+msgid "Date shipped:"
+msgstr "Date d'envoi :"
+
+#: ../syn-functions.php:267 ../syn-functions.php:309
+msgid "Tracking number:"
+msgstr "Numéro de suivi :"
+
+#: ../syn-functions.php:277
+msgid "Click here to track this shipment"
+msgstr "Cliquez ici pour suivre cet envoi"
+
+#: ../syn-functions.php:319
+msgid "Add tracking number"
+msgstr "Ajouter un numéro de suivi"
+
+#: ../syn-functions.php:319
+msgid "You can add multiple tracking for this order."
+msgstr "Vous pouvez ajouter plusieurs colis à cette commande."
+
+#: ../syn-functions.php:391 ../syn-functions.php:466
+#, php-format
+msgid "on %s"
+msgstr "le %s"
+
+#: ../syn-functions.php:391 ../syn-functions.php:466
+msgid "l jS F Y"
+msgstr "l jS F Y"
+
+#: ../syn-functions.php:393
+msgid "Part of your order"
+msgstr "Une partie de votre commande"
+
+#: ../syn-functions.php:393
+msgid "Your order"
+msgstr "Votre commande"
+
+#: ../syn-functions.php:397
+msgid "via"
+msgstr "par"
+
+#: ../syn-functions.php:406
+msgid "Track your package"
+msgstr "Suivre votre colis"
+
+#: ../syn-functions.php:408
+#, php-format
+msgid "<br />Tracking number: %s<br />%s"
+msgstr "<br />Numéro de suivi : %s<br />%s"
+
+#: ../syn-functions.php:411
+#, php-format
+msgid "%s was shipped%s%s.%s"
+msgstr "%s a été envoyé%s%s.%s"
+
+#: ../syn-functions.php:469
+#, php-format
+msgid " from %s: %s"
+msgstr " par %s : %s"
+
+#: ../syn-functions.php:474
+#, php-format
+msgid "Track Package shipped%s%s"
+msgstr "Suivre le colis envoyé%s%s"
+
+#: ../syn-functions.php:474
+#, php-format
+msgid "Tracking%s"
+msgstr "Suivi%s"
+
+#~ msgid "Regular Parcel"
+#~ msgstr "Colis standard"
+
+#~ msgid "Expedited Parcel"
+#~ msgstr "Colis accélérés"
+
+#~ msgid "Xpresspost"
+#~ msgstr "Xpresspost"
+
+#~ msgid "Xpresspost Certified"
+#~ msgstr "Xpresspost certifié"
+
+#~ msgid "Priority"
+#~ msgstr "Priorité"
+
+#~ msgid "Library Books"
+#~ msgstr "Livres de bibliothèque"
+
+#~ msgid "Expedited Parcel USA"
+#~ msgstr "Colis accélérés É.-U."
+
+#~ msgid "Priority Worldwide Envelope USA"
+#~ msgstr "Enveloppe Priorité Mondial - É.-U."
+
+#~ msgid "Priority Worldwide pak USA"
+#~ msgstr "Paquet Priorité Mondial - É.-U."
+
+#~ msgid "Priority Worldwide Parcel USA"
+#~ msgstr "Colis Priorité Mondial - É.-U."
+
+#~ msgid "Small Packet USA Air"
+#~ msgstr "Petits paquets-avion à destination des É.-U."
+
+#~ msgid "Tracked Packet – USA"
+#~ msgstr "Paquet repérable - É.-U."
+
+#~ msgid "Xpresspost USA"
+#~ msgstr "Xpresspost É.-U."
+
+#~ msgid "Xpresspost International"
+#~ msgstr "Xpresspost International"
+
+#~ msgid "International Parcel Air"
+#~ msgstr "Colis-avion du régime international"
+
+#~ msgid "International Parcel Surface"
+#~ msgstr "Colis de surface du régime international"
+
+#~ msgid "Priority Worldwide Envelope International"
+#~ msgstr "Enveloppe Priorité Mondial - International"
+
+#~ msgid "Priority Worldwide pak International"
+#~ msgstr "Paquet Priorité Mondial - International"
+
+#~ msgid "Priority Worldwide parcel International"
+#~ msgstr "Colis Prioritié Mondial – International"
+
+#~ msgid "Small Packet International Air"
+#~ msgstr "Petits paquets-avion du régime international"
+
+#~ msgid "Small Packet International Surface"
+#~ msgstr "Petits paquets de surface du régime international"
+
+#~ msgid "Tracked Packet – International"
+#~ msgstr "Paquet repérable – International"
+
+#~ msgid "Enable/Disable"
+#~ msgstr "Activer / Désactiver"
+
+#~ msgid "Enable Canada Post"
+#~ msgstr "Activer Poste Canada"
+
+#~ msgid "Method title"
+#~ msgstr "Titre de la méthode"
+
+#~ msgid "Enter the title of the shipping method."
+#~ msgstr "Entrer le titre de la méthode de transport"
+
+#~ msgid "Canada Post"
+#~ msgstr "Poste Canada"
+
+#~ msgid "Debug Mode"
+#~ msgstr "Mode debug"
+
+#~ msgid "Enable Debug Mode"
+#~ msgstr "Activer le mode debug"
+
+#~ msgid ""
+#~ "Output the response from Canada Post on the cart/checkout for debugging "
+#~ "purposes."
+#~ msgstr "Affiche la réponse de Poste Canada dans le panier afin de débugger."
+
+#~ msgid "Method Availability"
+#~ msgstr "Disponibilité de la méthode"
+
+#~ msgid "All Countries"
+#~ msgstr "Tous les pays"
+
+#~ msgid "Specific Countries"
+#~ msgstr "Pays spécifique"
+
+#~ msgid "Origin Postal code"
+#~ msgstr "Code postal d'origine"
+
+#~ msgid "Enter your origin postal code."
+#~ msgstr "Entre votre code postale d'origine."
+
+#~ msgid "API Settings"
+#~ msgstr "Paramètres de l'API"
+
+#~ msgid "Your API access details"
+#~ msgstr "Vos détails de l'API"
+
+#~ msgid "Quote Type"
+#~ msgstr "Type de devis"
+
+#~ msgid "Commercial"
+#~ msgstr "Commercial"
+
+#~ msgid "Counter"
+#~ msgstr "Comptoir"
+
+#~ msgid "Development mode"
+#~ msgstr "Mode développement"
+
+#~ msgid "Use the development key and password"
+#~ msgstr "Utiliser la clé et mot de passe de développement"
+
+#~ msgid ""
+#~ "Enabling this feature use the development key and password and use canada "
+#~ "post dev. environment."
+#~ msgstr ""
+#~ "Activer cette fonctionnalité permettra d'utiliser la clé et mot de passe "
+#~ "de développement."
+
+#~ msgid "Development Key"
+#~ msgstr "Clé de développement"
+
+#~ msgid "Your Development Key to retrieve shipping rates"
+#~ msgstr "Votre Clé de développement permet de récupérer les tarifs"
+
+#~ msgid "Development Password"
+#~ msgstr "Mot de passe de développement"
+
+#~ msgid "Your Development Password to retrieve shipping rates"
+#~ msgstr "Votre Mot de passe de développement permet de récupérer les tarifs"
+
+#~ msgid "Production Key"
+#~ msgstr "Clé de production"
+
+#~ msgid "Your Production Key to retrieve shipping rates"
+#~ msgstr "Votre Clé de production permet de récupérer les tarifs"
+
+#~ msgid "Production Password"
+#~ msgstr "Mot de passe de production"
+
+#~ msgid "Your Production Password to retrieve shipping rates"
+#~ msgstr "Votre Mot de passe de production permet de récupérer les tarifs"
+
+#~ msgid "Customer number"
+#~ msgstr "Numéro de client"
+
+#~ msgid "You must enter your customer number here."
+#~ msgstr "Vous devez entrer votre numéro de client ici."
+
+#~ msgid "Contract ID"
+#~ msgstr "ID Contrat"
+
+#~ msgid "If you have a contract ID with Canada Post, enter it here."
+#~ msgstr "Si vous avez un ID de contrat, entrer le ici."
+
+#~ msgid "Parcel Packing Method"
+#~ msgstr "Méthode d'emballage des colis"
+
+#~ msgid "Pack items individually"
+#~ msgstr "Emballé les colis individuellement"
+
+#~ msgid "Weight"
+#~ msgstr "Poids"
+
+#~ msgid "Box packing (Most accurate quotes)"
+#~ msgstr "Empaquetage en boîte (Devis le plus précis)"
+
+#~ msgid "Handling Fee"
+#~ msgstr "Frais de manutention"
+
+#~ msgid ""
+#~ "Fee excluding tax. Enter an amount, e.g. 2.50, or a percentage, e.g. 5%. "
+#~ "Leave blank for no fee."
+#~ msgstr ""
+#~ "Frais excluant les taxes. Entrer un nombre ex. : 2.50 ou un pourcentage "
+#~ "ex.: 5%. Laisser vide si aucune frais ne s'applique."
+
+#~ msgid "%s: No packages returned"
+#~ msgstr "%s : Aucun colis retourné"
+
+#~ msgid "%s: Send XML: <pre class=\"syn-debug\">%s</pre>"
+#~ msgstr "%s: XML d'envoi: <pre class=\"syn-debug\">%s</pre>"
+
+#~ msgid "%s: Response XML: <pre class=\"syn-debug\">%s</pre>"
+#~ msgstr "%s: XML de réponse: <pre class=\"syn-debug\">%s</pre>"
+
+#~ msgid "%s: Failed loading XML"
+#~ msgstr "%s : Échec de chargement XML"
+
+#~ msgid ""
+#~ "%s: No rates returned - ensure you have defined product dimensions and "
+#~ "weights."
+#~ msgstr ""
+#~ "%s: Aucun prix retourné - vérifiez que vous avez défini les dimensions et "
+#~ "poids des produits."
+
+#~ msgid "%s: All was good!"
+#~ msgstr "%s: Tout est parfait!"
+
+#~ msgid ""
+#~ "You must have a Production Key and Password to calculate Canada Post "
+#~ "Shipping, <a href=\"%s\" target=\"_blank\">click here</a> to register an "
+#~ "account with Canada Post."
+#~ msgstr ""
+#~ "Vous devez avoir une clé et un mot de passe afin de calculer les colis de "
+#~ "Poste Canada, <a href=\"%s\" target=\"_blank\">cliquer ici</a> afin de "
+#~ "vous inscrires chez Poste Canada."
+
+#~ msgid ""
+#~ "Product <a href=\"%s\" target=\"_blank\">#%d</a> is missing weight. "
+#~ "Aborting %s quotes."
+#~ msgstr ""
+#~ "Le produit <a href=\"%s\" target=\"_blank\">#%d</a> manque le poids. "
+#~ "Abandon du devis de %s."
+
+#~ msgid ""
+#~ "An unexpected error occurred. Something may be wrong with api.synmedia.ca "
+#~ "or this server&#8217;s configuration. If you continue to have problems, "
+#~ "please try to <a href=\"http://www.synmedia.ca\">contact us</a>."
+#~ msgstr ""
+#~ "Une erreur inattendue s'est produite. Le serveur api.synmedia.ca est peut-"
+#~ "être non fonctionnel ou la configuration de ce serveur. Si vous continuer "
+#~ "à avoir ce problème, veuillez <a href=\"http://www.synmedia.ca"
+#~ "\">communiquer avec nous</a>."
+
+#~ msgid "Canada Post error, some fields are missing: %s"
+#~ msgstr "Erreur Poste Canada, quelques champs sont absents : %s"
+
+#~ msgid "Settings"
+#~ msgstr "Paramètres"
+
+#~ msgid ""
+#~ "You must enter your origin postal code before you can use Canada Post "
+#~ "shipping."
+#~ msgstr ""
+#~ "Vous devez entrer votre code postal d'origine avant de pouvoir utiliser "
+#~ "le transport par Poste Canada."
+
+#~ msgid "You must enter your user ID before you can use Canada Post shipping."
+#~ msgstr ""
+#~ "Vous devez entrer votre ID d'utilisateur avant de pouvoir utiliser le "
+#~ "transport par Poste Canada."
+
+#~ msgid "Shipping Methods"
+#~ msgstr "Méthodes d'expédition"
+
+#~ msgid "Select All"
+#~ msgstr "Sélectionner tout"
+
+#~ msgid "Select None"
+#~ msgstr "Sélectionner aucun"
+
+#~ msgid ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+#~ msgstr ""
+#~ "Une erreur HTTP est survenu durant la requête API.</p> <p><a href=\"?\" "
+#~ "onclick=\"document.location.reload(); return false;\">Essayer à nouveau</"
+#~ "a>"
+
+#~ msgid "An unknown error occurred"
+#~ msgstr "Une erreur inconnu est survenu"

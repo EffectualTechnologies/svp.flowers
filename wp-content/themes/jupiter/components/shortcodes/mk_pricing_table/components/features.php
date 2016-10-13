@@ -1,0 +1,1 @@
+<div class="pricing-features"><?php echo do_shortcode(get_post_meta( get_the_ID(), '_features', true )); ?></div>

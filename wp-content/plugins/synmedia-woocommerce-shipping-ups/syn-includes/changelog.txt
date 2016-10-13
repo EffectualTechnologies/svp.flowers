@@ -1,0 +1,7 @@
+*** SYN Media Dependencies Changelog ***
+
+v1.0.1 – March 26 2014
+	* Fixed auto updater
+
+v1.0.0 – March 06 2014
+	* Initial release

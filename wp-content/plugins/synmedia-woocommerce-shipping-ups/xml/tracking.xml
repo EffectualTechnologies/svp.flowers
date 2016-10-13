@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<AccessRequest xml:lang="en-US">
+	<AccessLicenseNumber>#LICENSE#</AccessLicenseNumber>
+	<UserId>#ID#</UserId>
+	<Password>#PASSWORD#</Password>
+</AccessRequest>
+<?xml version="1.0" encoding="UTF-8"?>
+<TrackRequest xml:lang="en-US">
+	<Request>
+		<TransactionReference>
+			<CustomerContext>SYN Media Tracking</CustomerContext>
+			<XpciVersion>1.0</XpciVersion>
+		</TransactionReference>
+		<RequestAction>Track</RequestAction>
+		<RequestOption>activity</RequestOption>
+	</Request>
+	<TrackingNumber>#TRACKINGNUMBER#</TrackingNumber>
+</TrackRequest>

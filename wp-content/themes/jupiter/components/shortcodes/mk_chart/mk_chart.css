@@ -1,0 +1,43 @@
+.mk-chart__chart {
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+}
+.mk-chart__chart canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.mk-chart__icon,
+.mk-chart__text,
+.mk-chart__percent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100% !important;
+  color: #444444;
+  text-align: center;
+  height: 100% !important;
+}
+.mk-chart__percent {
+  font-weight: bold;
+}
+.mk-chart__desc {
+  display: block;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 1.3em;
+}
+.mk-chart__icon {
+    display: flex;
+    align-items: center;
+}
+.mk-chart__icon .mk-svg-icon {
+    margin: 0 auto;  
+}
+@media handheld, only screen and (max-width: 600px) {
+  .mk-chart__chart {
+    margin: 0 auto;
+  }
+}

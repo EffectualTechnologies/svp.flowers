@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<AccessRequest xml:lang="en-US">
+	<AccessLicenseNumber>#LICENSE#</AccessLicenseNumber>
+	<UserId>#ID#</UserId>
+	<Password>#PASSWORD#</Password>
+</AccessRequest>
+<?xml version="1.0"?>
+<AddressValidationRequest xml:lang="en-US">
+	<Request>
+		<TransactionReference>
+			<CustomerContext>UPS for WooCommerce by SYN Media</CustomerContext>
+			<XpciVersion>1.0001</XpciVersion>
+		</TransactionReference>
+		<RequestAction>XAV</RequestAction>
+		<RequestOption>3</RequestOption>
+	</Request>
+	<AddressKeyFormat>
+		<AddressLine>#TOADDRESS1#</AddressLine>	
+		<PoliticalDivision2>#TOCITY#</PoliticalDivision2>
+		<PoliticalDivision1>#TOSTATE#</PoliticalDivision1>
+		<PostcodePrimaryLow>#TOPOSTALCODE#</PostcodePrimaryLow>
+		<CountryCode>#TOCOUNTRYCODE#</CountryCode>
+	</AddressKeyFormat>
+</AddressValidationRequest>

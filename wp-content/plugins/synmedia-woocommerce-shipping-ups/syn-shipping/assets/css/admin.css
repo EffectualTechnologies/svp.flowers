@@ -1,0 +1,19 @@
+a.button.tips.track_shipment{
+	display: block;
+	text-indent: -9999px;
+	position: relative;
+	padding: 0!important;
+	height: 2em!important;
+	width: 2em;
+	background: #f7f7f7 url(../images/icons/track.png) no-repeat;
+}
+
+a.button.tips.track_shipment_delivered{
+	display: block;
+	text-indent: -9999px;
+	position: relative;
+	padding: 0!important;
+	height: 2em!important;
+	width: 2em;
+	background: #f7f7f7 url(../images/icons/track_delivered.png) no-repeat;
+}

@@ -1,0 +1,55 @@
+*** SYN Media Shipping Dependencies Changelog ***
+
+v1.1.5 – Novembre 5 2015
+	* Fix Enabled status in general shipping page
+
+v1.1.4 – Novembre 21 2014
+	* Fixed method not saving
+
+v1.1.3 – October 03 2014
+	* Fixed method not saving
+
+v1.1.1 – September 18 2014
+	* Added service availability
+
+v1.1.0 – May 07 2014
+	* Clear transient on activation or update
+
+v1.0.9 – May 07 2014
+	* Clear transient
+
+v1.0.8 – April 30 2014
+	* Fix WC
+
+v1.0.7 – April 09 2014
+	* Fix Handle
+	* Remove chosen select
+
+v1.0.7 – April 09 2014
+	* Fix Add Tracking button
+
+v1.0.6 – April 09 2014
+	* Added multiple tracking
+
+v1.0.5 – April 08 2014
+	* Added tracking
+	* Change debug message to cart only
+
+v1.0.4 – April 04 2014
+	* Added custom_methods function
+
+v1.0.3 – April 01 2014
+	* Fix transient
+
+v1.0.2 – March 26 2014
+	* Added Box Packing
+	* Added calculate_shipping function to dependencies
+	* Added country / state splitter
+	* Fixed calculate_shipping
+	* Changed debug message
+
+v1.0.1 – March 26 2014
+	* Fixed auto updater
+
+v1.0.0 – March 06 2014
+	* Initial release

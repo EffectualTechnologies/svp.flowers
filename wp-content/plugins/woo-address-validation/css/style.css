@@ -1,0 +1,18 @@
+#ubercx_addr_correction{
+		
+		margin-bottom: 20px;
+		background: #ebe9eb;
+		border-radius: 5px;
+		padding: 10px;
+}
+
+#ubercx_addr_correction label{
+		
+		display: inline;
+		font-size: 0.9em;
+}
+
+#ubercx_addr_correction input{
+		
+		margin-bottom: 10px;
+}

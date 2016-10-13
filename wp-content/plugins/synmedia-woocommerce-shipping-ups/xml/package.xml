@@ -1,0 +1,24 @@
+<Package>
+	<PackagingType>
+		<Code>02</Code>
+		<Description>Custom Package</Description>
+	</PackagingType>
+	<Description>Rate</Description>
+
+	<Dimensions>
+		<UnitOfMeasurement>
+	 		<Code>#DIMENSIONUNIT#</Code>
+		</UnitOfMeasurement>
+		<Length>#LENGTH#</Length>
+		<Width>#WIDTH#</Width>
+		<Height>#HEIGHT#</Height>
+	</Dimensions>
+
+	<PackageWeight>
+		<UnitOfMeasurement>
+			<Code>#WEIGHTUNIT#</Code>
+		</UnitOfMeasurement>
+		<Weight>#WEIGHT#</Weight>
+	</PackageWeight>
+	#PACKAGESERVICEOPTIONS#
+</Package>

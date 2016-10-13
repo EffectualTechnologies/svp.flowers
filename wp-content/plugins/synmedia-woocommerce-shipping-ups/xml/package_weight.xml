@@ -1,0 +1,14 @@
+<Package>
+		<PackagingType>
+    	<Code>02</Code>
+		<Description>Customer Supplied</Description>
+		</PackagingType>
+		<Description>Rate</Description>
+		<PackageWeight>
+			<UnitOfMeasurement>
+			  <Code>#WEIGHTUNIT#</Code>
+			</UnitOfMeasurement>
+    	<Weight>#WEIGHT#</Weight>
+		</PackageWeight>
+		#PACKAGESERVICEOPTIONS#
+</Package>

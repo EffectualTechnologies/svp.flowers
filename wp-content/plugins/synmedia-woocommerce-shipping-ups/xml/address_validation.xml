@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<AccessRequest xml:lang="en-US">
+	<AccessLicenseNumber>#LICENSE#</AccessLicenseNumber>
+	<UserId>#ID#</UserId>
+	<Password>#PASSWORD#</Password>
+</AccessRequest>
+<?xml version="1.0"?>
+<AddressValidationRequest xml:lang="en-US">
+	<Request>
+		<TransactionReference>
+			<CustomerContext>Customer Data</CustomerContext>
+			<XpciVersion>1.0001</XpciVersion>
+		</TransactionReference>
+		<RequestAction>AV</RequestAction>
+	</Request>
+	<Address>
+		<Address>#TOADDRESS1#</Address>
+		<City>#TOCITY#</City>
+		<StateProvinceCode>#TOSTATE#</StateProvinceCode>
+		<CountryCode>#TOCOUNTRYCODE#</CountryCode>
+		<PostalCode>#TOPOSTALCODE#</PostalCode>
+	</Address>
+</AddressValidationRequest>

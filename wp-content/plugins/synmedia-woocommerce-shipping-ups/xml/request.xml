@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<AccessRequest xml:lang="en-US">
+	<AccessLicenseNumber>#LICENSE#</AccessLicenseNumber>
+	<UserId>#ID#</UserId>
+	<Password>#PASSWORD#</Password>
+</AccessRequest>
+<?xml version="1.0" encoding="UTF-8"?>
+<RatingServiceSelectionRequest xml:lang="en-US">
+	<Request>
+		<TransactionReference>
+			<CustomerContext>Rating and Service</CustomerContext>
+			<XpciVersion>1.0</XpciVersion>
+		</TransactionReference>
+		<RequestAction>Rate</RequestAction>
+		<RequestOption>Rate</RequestOption>
+	</Request>
+	<PickupType>
+		<Code>#PICKUPTYPE#</Code>
+		<Description>#PICKUPTYPETEXT#</Description>
+	</PickupType>
+	<Shipment>
+		<Description>SYN Media WooCommerce UPS Plugin</Description>
+		<Shipper>
+			<ShipperNumber>#SHIPPERNUMBER#</ShipperNumber>
+			<Address>
+				<PostalCode>#POSTALCODE#</PostalCode>
+				<CountryCode>#COUNTRYCODE#</CountryCode>
+			</Address>
+		</Shipper>
+		<ShipTo>
+			<Address>
+				<AddressLine1>#TOADDRESS1#</AddressLine1>
+				<AddressLine2>#TOADDRESS2#</AddressLine2>
+				<City>#TOCITY#</City>
+				<StateProvinceCode>#TOSTATE#</StateProvinceCode>
+				<PostalCode>#TOPOSTALCODE#</PostalCode>
+				<CountryCode>#TOCOUNTRYCODE#</CountryCode>
+				#SHIPTORESIDENTIAL#
+			</Address>
+		</ShipTo>
+		<ShipFrom>
+			<Address>
+				<StateProvinceCode>#FROMSTATE#</StateProvinceCode>
+				<PostalCode>#POSTALCODE#</PostalCode>
+				<CountryCode>#COUNTRYCODE#</CountryCode>
+			</Address>
+		</ShipFrom>
+		<Service>
+			<Code>#SERVICECODE#</Code>
+		</Service>
+		<PaymentInformation>
+			<Prepaid>
+				<BillShipper>
+					<AccountNumber>#SHIPPERNUMBER#</AccountNumber>
+				</BillShipper>
+			</Prepaid>
+		</PaymentInformation>
+		#PACKAGE#
+		#SHIPMENTSERVICEOPTIONS#
+	</Shipment>
+</RatingServiceSelectionRequest>

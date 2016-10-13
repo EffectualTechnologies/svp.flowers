@@ -1,0 +1,4036 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RewardSystem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-12 19:48+0530\n"
+"PO-Revision-Date: 2015-06-12 19:49+0530\n"
+"Last-Translator: FantasticPlugins <contact@fantasticplugins.com>\n"
+"Language-Team: Fantastic Plugins <contact@fantasticplugins.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_e(;__(\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: php\n"
+"X-Poedit-Country: India\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+"X-Poedit-SearchPath-3: ../inc\n"
+
+#: ../rewardsystem.php:615
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: ../inc/rs_function_for_import_export.php:42
+#: ../inc/rs_function_for_import_export.php:70
+msgid "Select the users that you wish to Export Reward Points"
+msgstr ""
+
+#: ../inc/rs_function_for_import_export.php:73
+#: ../inc/rs_function_for_add_remove_tab.php:105
+#: ../inc/rs_function_for_reset_tab.php:71
+msgid "Search for a customer&hellip;"
+msgstr ""
+
+#: ../inc/rs_function_for_import_export.php:671
+msgid "Start Date"
+msgstr ""
+
+#: ../inc/rs_function_for_import_export.php:680
+msgid "End Date"
+msgstr ""
+
+#: ../inc/rs_function_for_import_export.php:688
+msgid "Export User Points to CSV"
+msgstr ""
+
+#: ../inc/rs_function_for_import_export.php:697
+msgid "Import User Points to CSV"
+msgstr ""
+
+#: ../inc/rs_function_for_user_reward_points.php:86
+msgid "Update User Reward Points"
+msgstr ""
+
+#: ../inc/rs_function_for_user_reward_points.php:90
+#: ../inc/rs_function_for_add_remove_tab.php:132
+msgid "Current Points for User"
+msgstr ""
+
+#: ../inc/rs_function_for_user_reward_points.php:101
+#: ../inc/rs_function_for_add_remove_tab.php:140
+msgid "Enter Points"
+msgstr ""
+
+#: ../inc/rs_function_for_user_reward_points.php:110
+#: ../inc/rs_function_for_add_remove_tab.php:148
+msgid "Reason in Detail"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:48
+msgid "Voucher Creation"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:59
+msgid "Enter Number of Vouchers to Generate"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:68
+msgid "Prefix for Gift Voucher Code"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:77
+msgid "Enter Bulk Gift Voucher Points"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:86
+msgid "Bulk Gift Voucher Expiry"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:97
+msgid "Enter Gift Voucher Code"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:105
+msgid "Enter Gift Voucher Points"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:113
+msgid "Gift Voucher Expiry"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:245
+#: ../inc/rs_function_for_myaccount_tab.php:664
+#: ../inc/rs_function_for_myaccount_tab.php:860
+msgid "Search:"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:245
+#: ../inc/rs_function_for_myaccount_tab.php:667
+#: ../inc/rs_function_for_myaccount_tab.php:863
+msgid "Page Size:"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:280
+#: ../inc/rs_function_for_myaccount_tab.php:276
+msgid "S.No"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:282
+msgid "Voucher Code"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:283
+msgid "Points Assigned"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:284
+msgid "Voucher Created"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:285
+msgid "Voucher Expiry"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:286
+msgid "Voucher used by"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:287
+#: ../inc/wc_class_encashing_wplist.php:104
+msgid "Delete"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:532
+#: ../inc/rs_function_for_gift_voucher_tab.php:568
+msgid "Redeem your Gift Voucher"
+msgstr ""
+
+#: ../inc/rs_function_for_gift_voucher_tab.php:533
+#: ../inc/rs_function_for_gift_voucher_tab.php:569
+msgid "Redeem Gift Voucher"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:76
+msgid "User Name"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:77
+msgid "Points for Cash Back"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:78
+msgid "Amount for Cash Back "
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:79
+msgid "Reason for Cash Back"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:80
+msgid "Paypal Address "
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:81
+msgid "Other Payment Details"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:82
+msgid "Application Status"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:83
+msgid "Cash Back Requested Date"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:105
+msgid "Mark as Paid"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:106
+msgid "Mark as Due"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:137
+#: ../inc/wc_class_encashing_wplist.php:155
+msgid " Status Changed to Paid"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:175
+#: ../inc/rs_function_for_myaccount_tab.php:524
+msgid " Status Changed to Cancelled"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:251
+msgid " Status Changed to Due"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:269
+msgid "Export Due Points as CSV for Paypal Mass Payment"
+msgstr ""
+
+#: ../inc/wc_class_encashing_wplist.php:270
+msgid "Export All Cash Back Requests"
+msgstr ""
+
+#: ../inc/rs_function_for_add_remove_tab.php:74
+#: ../inc/rs_function_for_add_remove_tab.php:102
+msgid "Select Username/Email"
+msgstr ""
+
+#: ../inc/rs_wc_booking_compatabilty.php:379
+#: ../inc/rs_wc_booking_compatabilty.php:398
+msgid "Book this Product and Earn <span class='sumobookingpoints'></span> Points"
+msgstr ""
+
+#: ../inc/rs_wc_booking_compatabilty.php:708
+msgid "Enter Cart Message for WooCommerce Booking Product"
+msgstr ""
+
+#: ../inc/rs_wc_booking_compatabilty.php:709
+msgid "Please Enter Cart Message for WooCommerce Booking Product"
+msgstr ""
+
+#: ../inc/rs_function_for_myaccount_tab.php:132
+msgid "Generate Referral Link"
+msgstr ""
+
+#: ../inc/rs_function_for_myaccount_tab.php:272
+msgid "Generated Referral List"
+msgstr ""
+
+#: ../inc/rs_function_for_myaccount_tab.php:277
+msgid "Date"
+msgstr ""
+
+#: ../inc/rs_function_for_myaccount_tab.php:278
+msgid "Referral Link"
+msgstr ""
+
+#: ../inc/rs_function_for_myaccount_tab.php:279
+msgid "Social"
+msgstr ""
+
+#: ../inc/rs_function_for_myaccount_tab.php:280
+msgid "Actions"
+msgstr ""
+
+#: ../inc/rs_function_for_myaccount_tab.php:326
+msgid "My Referral Link"
+msgstr ""
+
+#: ../inc/rs_function_for_myaccount_tab.php:1222
+#: ../inc/rs_function_for_myaccount_tab.php:1262
+msgid "Select Nominee"
+msgstr ""
+
+#: ../inc/rs_function_for_myaccount_tab.php:1226
+#: ../inc/rs_function_for_myaccount_tab.php:1266
+msgid "Choose Nominee"
+msgstr ""
+
+#: ../inc/rs_function_for_myaccount_tab.php:1252
+#: ../inc/rs_function_for_myaccount_tab.php:1295
+msgid "You have no Nominee"
+msgstr ""
+
+#: ../inc/rs_function_for_reset_tab.php:28
+msgid "Reset Data for"
+msgstr ""
+
+#: ../inc/rs_function_for_reset_tab.php:38
+#: ../inc/rs_function_for_reset_tab.php:68
+msgid "Select Users to Reset Data"
+msgstr ""
+
+#: ../inc/rs_function_for_reset_tab.php:94
+msgid "Reset User Reward Points"
+msgstr ""
+
+#: ../inc/rs_function_for_reset_tab.php:104
+msgid "Reset User Logs"
+msgstr ""
+
+#: ../inc/rs_function_for_reset_tab.php:114
+msgid "Reset Master Logs"
+msgstr ""
+
+#: ../inc/rs_function_for_social_reward_tab.php:854
+msgid "You already liked this post"
+msgstr ""
+
+#: ../inc/rs_function_for_social_reward_tab.php:1638
+msgid "You already Tweet this post"
+msgstr ""
+
+#: ../inc/rs_function_for_social_reward_tab.php:2227
+msgid "You already Shared this post on Goole+1"
+msgstr ""
+
+#: ../inc/rs_function_for_social_reward_tab.php:3013
+msgid "You have already liked this post on VK.Com"
+msgstr ""
+
+#: ../inc/rs_function_for_checkout.php:80
+#: ../inc/rs_function_for_checkout.php:100
+msgid "Select Products for Purchase using Points"
+msgstr ""
+
+#: ../inc/rs_function_for_checkout.php:83
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: ../inc/rs_function_for_update_tab.php:57
+#: ../inc/rs_function_for_update_tab.php:88
+#: ../inc/rs_function_for_update_tab.php:125
+#: ../inc/rs_function_for_update_tab.php:150
+msgid "Select Particular Products"
+msgstr ""
+
+#: ../inc/rs_function_for_update_tab.php:776
+msgid "Apply Reward Points to Previous Orders"
+msgstr ""
+
+#: ../inc/rs_function_for_update_tab.php:815
+msgid "Select From Specific Date"
+msgstr ""
+
+#: ../inc/rs_function_for_general_tab.php:273
+#: ../inc/rs_function_for_general_tab.php:302
+msgid "Select the Users to Restrict/Ban from Using Reward Points"
+msgstr ""
+
+#: ../inc/rs_function_for_general_tab.php:305
+msgid "Search Users"
+msgstr ""
+
+#: ../inc/rs_function_for_general_tab.php:354
+msgid "Upload your own Gift Icon"
+msgstr ""
+
+#: ../inc/rs_function_for_general_tab.php:388
+msgid "Earning Point(s)"
+msgstr ""
+
+#: ../inc/rs_function_for_general_tab.php:411
+#: ../inc/rs_function_for_general_tab.php:423
+msgid "Redeeming Point(s)"
+msgstr ""
+
+#: ../inc/rs_function_for_reports_in_csv_tab.php:1061
+msgid "Export User Points based on"
+msgstr ""
+
+#: ../inc/rs_function_for_reports_in_csv_tab.php:1071
+msgid "Export User Points Report as CSV"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:48
+msgid "Item was successfully saved"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:50
+msgid "There was an error while saving item"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:58
+msgid "Item was successfully updated"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:60
+msgid "There was an error while updating item"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:77
+msgid "Item not found"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:119
+msgid "Edit Cash Back Status"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:120
+msgid "Back to list"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:160
+msgid "Paid"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:161
+msgid "Due"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:166
+msgid "Cash Back Payment Option"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:173
+msgid "Paypal Address"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:174
+msgid "Custom Payment"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:179
+msgid "User Paypal Email"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:185
+msgid "User Custom Payment Details"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:192
+#: ../inc/rs_function_for_email_template.php:530
+msgid "Save Changes"
+msgstr ""
+
+#: ../inc/rs_function_for_request_for_cash_back.php:218
+#, php-format
+msgid "Items deleted: %d"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:192
+#: ../inc/rs_function_for_email_template.php:410
+#: ../inc/rs_function_for_email_template.php:686
+msgid "Template Name"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:193
+#: ../inc/rs_function_for_email_template.php:427
+#: ../inc/rs_function_for_refer_a_friend.php:70
+msgid "Send Mail"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:197
+#: ../inc/rs_function_for_email_template.php:431
+msgid "Send Mail Type"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:201
+#: ../inc/rs_function_for_email_template.php:435
+msgid "Send Mail on Earning Points of"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:204
+#: ../inc/rs_function_for_email_template.php:438
+msgid "Send Mail on Redeeming Points of"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:207
+#: ../inc/rs_function_for_email_template.php:443
+msgid "Email Sender Option"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:208
+#: ../inc/rs_function_for_email_template.php:445
+#: ../inc/rs_function_for_email_template.php:687
+msgid "From Name"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:209
+#: ../inc/rs_function_for_email_template.php:447
+#: ../inc/rs_function_for_email_template.php:688
+msgid "From Email"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:210
+#: ../inc/rs_function_for_email_template.php:450
+msgid "Minimum User Points to send this Mail"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:211
+#: ../inc/rs_function_for_email_template.php:452
+msgid "Send Mail To"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:217
+#: ../inc/rs_function_for_email_template.php:228
+#: ../inc/rs_function_for_email_template.php:462
+#: ../inc/rs_function_for_email_template.php:493
+msgid "Send Mail to Selected Users"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:237
+#: ../inc/rs_function_for_email_template.php:519
+#: ../inc/rs_function_for_email_template.php:689
+msgid "Subject"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:238
+#: ../inc/rs_function_for_email_template.php:521
+#: ../inc/rs_function_for_email_template.php:690
+msgid "Message"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:531
+msgid "Return to Mail Templates"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:691
+msgid "Minimum User Points"
+msgstr ""
+
+#: ../inc/rs_function_for_email_template.php:700
+msgid "Edit"
+msgstr ""
+
+#: ../inc/rs_function_for_cart_tab.php:367
+#: ../inc/rs_function_for_cart_tab.php:387
+#: ../inc/rs_function_for_cart_tab.php:425
+#: ../inc/rs_function_for_cart_tab.php:445
+msgid "Select Products"
+msgstr ""
+
+#: ../inc/rs_function_for_refer_a_friend.php:150
+msgid "Mail Sent Successfully"
+msgstr ""
+
+#: ../inc/rs_function_for_refer_a_friend.php:181
+msgid "Hi "
+msgstr ""
+
+#: ../inc/rs_function_for_coupon_reward_point_tab.php:39
+#: ../inc/rs_function_for_coupon_reward_point_tab.php:108
+msgid "Coupon Codes"
+msgstr ""
+
+#: ../inc/rs_function_for_coupon_reward_point_tab.php:40
+#: ../inc/rs_function_for_coupon_reward_point_tab.php:109
+msgid "Reward Points"
+msgstr ""
+
+#: ../inc/rs_function_for_coupon_reward_point_tab.php:41
+#: ../inc/rs_function_for_coupon_reward_point_tab.php:88
+msgid "Remove Linking"
+msgstr ""
+
+#: ../inc/rs_function_for_coupon_reward_point_tab.php:104
+#: ../inc/rs_function_for_coupon_reward_point_tab.php:110
+msgid "Add Linking"
+msgstr ""
+
+#: ../inc/rs_function_for_member_level.php:48
+#: ../inc/rs_function_for_member_level.php:66
+msgid "Name"
+msgstr ""
+
+#: ../inc/rs_function_for_member_level.php:49
+#: ../inc/rs_function_for_member_level.php:67
+msgid "Total Earned Points"
+msgstr ""
+
+#: ../inc/rs_function_for_member_level.php:50
+#: ../inc/rs_function_for_member_level.php:68
+msgid "Reward Percentage"
+msgstr ""
+
+#: ../inc/rs_function_for_member_level.php:51
+#: ../inc/rs_function_for_member_level.php:69
+msgid "Free Products"
+msgstr ""
+
+#: ../inc/rs_function_for_member_level.php:52
+#: ../inc/rs_function_for_member_level.php:150
+msgid "Remove Level"
+msgstr ""
+
+#: ../inc/rs_function_for_member_level.php:62
+#: ../inc/rs_function_for_member_level.php:70
+msgid "Add Level"
+msgstr ""
+
+#: ../inc/rs_function_for_member_level.php:271
+msgid "Reward Points for "
+msgstr ""
+
+#: ../inc/rs_function_for_member_level.php:272
+msgid "Please Enter Percentage of Reward Points for "
+msgstr ""
+
+#: ../inc/rs_function_for_manual_referral_link_tab.php:44
+#: ../inc/rs_function_for_manual_referral_link_tab.php:60
+msgid "Referer Username"
+msgstr ""
+
+#: ../inc/rs_function_for_manual_referral_link_tab.php:45
+#: ../inc/rs_function_for_manual_referral_link_tab.php:61
+msgid "Buyer Username"
+msgstr ""
+
+#: ../inc/rs_function_for_manual_referral_link_tab.php:46
+#: ../inc/rs_function_for_manual_referral_link_tab.php:62
+msgid "Linking Type"
+msgstr ""
+
+#: ../inc/rs_function_for_reward_points_for_action.php:24
+#: ../inc/rs_function_for_reward_points_for_action.php:86
+msgid "Reward Points for Using "
+msgstr ""
+
+#: ../inc/rs_function_for_reward_points_for_action.php:25
+#: ../inc/rs_function_for_reward_points_for_action.php:87
+msgid "Please Enter Reward Points for "
+msgstr ""
+
+#: ../inc/rs_function_for_masterlog_tab.php:24
+#: ../inc/rs_function_for_masterlog_tab.php:52
+msgid "Select the users that you wish to Export Master Log"
+msgstr ""
+
+#: ../inc/class_reward_system_menus.php:71
+msgid "Your settings have been saved."
+msgstr ""
+
+#: ../inc/class_reward_system_menus.php:101
+msgid "Save changes"
+msgstr ""
+
+#: ../inc/class_reward_system_menus.php:108
+msgid "Reset All"
+msgstr ""
+
+#: ../inc/rs_function_for_nominee.php:34
+#: ../inc/rs_function_for_nominee.php:63
+msgid "Select the Users as Nominee"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:21
+#: ../inc/admin/class_member_level_tab.php:32
+#: ../inc/admin/class_member_level_tab.php:64
+msgid "Member Level"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:43
+msgid "Priority Level Selection"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:44
+msgid "If more than one type(level) is enabled then use the highest/lowest percentage"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:52
+msgid "Use the Level that gives Highest Percentage"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:53
+msgid "Use the Level that gives Lowest Percentage"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:59
+msgid "Reward Points Earning Percentage By User Roles"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:65
+msgid "Choose User Role Based Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:76
+msgid "Reward Points Earning Percentage By Total Earned Points"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:81
+msgid "Earning Level"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:82
+msgid "Choose Earned Level based Total Earned Points"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:96
+msgid "Member Level Message Settings"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:101
+msgid "Message Displayed for Free Productss"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:102
+msgid "Enter the Message which will be displayed for the Free Products in Cart"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:112
+msgid "Caption for Free Product"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:113
+msgid "Enter the Caption which will be displayed when after Free Product is removed from cart"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:123
+msgid "Display Free Product Message in Cart and Order"
+msgstr ""
+
+#: ../inc/admin/class_member_level_tab.php:124
+msgid "Enable displaying free product message in cart/order"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:24
+msgid "General"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:43
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:49
+msgid "Reward Type - \"By Percentage of Product Price\" is Calculated based on"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:50
+msgid "Select Regular/Sale Price for Reward Type - \"By Percentage of Product Price\" Calculation"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:57
+msgid "Regular Price"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:58
+msgid "Sales Price (Regular Price if Sale Price is unavailable)"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:63
+#: ../inc/admin/class_general_tab_setting.php:71
+msgid "Maximum Earning Points for each User"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:64
+msgid "Enable Maximum Earning Points for each User"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:72
+#: ../inc/admin/class_general_tab_setting.php:259
+#: ../inc/admin/class_general_tab_setting.php:270
+msgid "Enter a Fixed or Decimal Number greater than 0"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:82
+msgid "Global Settings for Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:87
+msgid "Enable SUMO Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:94
+msgid "Global Settings will be considered when Product and Category Settings are Enabled and Values are Empty. Priority Order is Product Settings, Category Settings and Global Settings in the Same Order. "
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:99
+#: ../inc/admin/class_general_tab_setting.php:419
+#: ../inc/admin/class_social_rewards_tab.php:197
+#: ../inc/admin/class_buying_reward_points.php:30
+#: ../inc/admin/class_form_for_cash_back_tab.php:52
+msgid "Enable"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:100
+#: ../inc/admin/class_general_tab_setting.php:420
+#: ../inc/admin/class_social_rewards_tab.php:198
+#: ../inc/admin/class_buying_reward_points.php:29
+#: ../inc/admin/class_form_for_cash_back_tab.php:53
+msgid "Disable"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:104
+msgid "Reward Type"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:105
+#: ../inc/admin/class_general_tab_setting.php:149
+msgid "Select Reward Type by Points/Percentage"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:115
+#: ../inc/admin/class_general_tab_setting.php:159
+#: ../inc/admin/class_social_rewards_tab.php:213
+#: ../inc/admin/class_social_rewards_tab.php:253
+#: ../inc/admin/class_social_rewards_tab.php:293
+#: ../inc/admin/class_social_rewards_tab.php:333
+msgid "By Fixed Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:116
+#: ../inc/admin/class_general_tab_setting.php:160
+#: ../inc/admin/class_social_rewards_tab.php:214
+#: ../inc/admin/class_social_rewards_tab.php:254
+#: ../inc/admin/class_social_rewards_tab.php:294
+#: ../inc/admin/class_social_rewards_tab.php:334
+msgid "By Percentage of Product Price"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:129
+#: ../inc/admin/class_general_tab_setting.php:143
+#: ../inc/admin/class_general_tab_setting.php:173
+#: ../inc/admin/class_general_tab_setting.php:187
+msgid "When left empty, Category and Product Settings will be considered in the same order and Current Settings (Global Settings) will be ignored. When value greater than or equal to 0 is entered then Current Settings (Global Settings) will be considered and Category/Global Settings will be ignored.  "
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:134
+msgid "Reward Points in Percent %"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:148
+msgid "Referral Reward Type"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:164
+msgid "Referral Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:178
+msgid "Referral Reward Points in Percent %"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:193
+msgid "Earning Points Conversion Settings"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:202
+msgid "Redeeming Points Conversion Settings"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:211
+msgid "Redeeming Points Conversion Settings for Cash Back"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:220
+msgid "Point Expiry Setttings"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:225
+msgid "No. of Days in Which Points to be Expired"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:233
+msgid "Here you can enter number of days in which  earned reward points to be expired"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:238
+msgid "Maximum Redeeming Value (Discount) Settings for Order"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:243
+msgid "Maximum Redeeming Value (Discount) Type"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:252
+msgid "By Fixed Value"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:253
+msgid "By Percentage of Cart Total"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:258
+msgid "Maximum Redeeming Value (Discount) for Order in "
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:269
+msgid "Maximum Discount for Order in Percentage %"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:281
+msgid "Round Off Settings for Display of Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:282
+msgid "This Settings applies only for Displaying Reward Points and not for Calculation Purpose "
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:287
+msgid "Round Off Type"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:295
+msgid "2 Decimal Places"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:296
+msgid "Whole Number"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:303
+msgid "Referral Link Cookies Settings"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:308
+msgid "Referral Link Cookies Expires in"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:317
+msgid "Minutes"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:318
+msgid "Hours"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:319
+msgid "Days"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:324
+msgid "Referral Cookies Expiry in Minutes"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:325
+#: ../inc/admin/class_general_tab_setting.php:336
+#: ../inc/admin/class_general_tab_setting.php:347
+msgid "Enter a Fixed Number greater than or equal to 0 "
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:335
+msgid "Referral Cookies Expiry in Hours"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:346
+msgid "Referral Cookies Expiry in Days"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:358
+#: ../inc/admin/class_general_tab_setting.php:363
+msgid "Linking Referrals for Life Time"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:364
+msgid "Enable Linking Referrals for Life Time"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:373
+#: ../inc/admin/class_general_tab_setting.php:379
+msgid "Referral Reward Points should be applied to Referrer when User(Buyer or Referral) is X Days Old"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:375
+msgid "For eg: If A Refers B then A is the Referrer and B is the Referral"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:389
+msgid "Unlimited"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:390
+msgid "Limited"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:394
+msgid "Enter Number of Days "
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:395
+msgid "Enter Fixed Number greater than or equal to 0"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:404
+msgid "Gift Icon Settings for Shop, Category and Product Page"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:405
+msgid "For Variable Products, Shop Page is not Supported"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:410
+msgid "Gift Icon"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:429
+msgid "Restrict/Ban Users from Using Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:434
+msgid "Earning Points"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:435
+msgid "Ban Users from Earning Points"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:443
+msgid "Redeeming Points"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:444
+msgid "Ban Users from Redeeming Points"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:453
+msgid "Here you select the users whom you wish to ban from using Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_general_tab_setting.php:463
+msgid "Select the User Roles to Restrict/Ban from Using Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_mail_tab.php:20
+#: ../inc/admin/class_mail_tab.php:51
+msgid "Mail"
+msgstr ""
+
+#: ../inc/admin/class_mail_tab.php:56
+msgid "Select Mail Function"
+msgstr ""
+
+#: ../inc/admin/class_mail_tab.php:69
+msgid "Mail Cron Settings"
+msgstr ""
+
+#: ../inc/admin/class_mail_tab.php:75
+msgid "Mail Cron Time Type"
+msgstr ""
+
+#: ../inc/admin/class_mail_tab.php:88
+msgid "Mail Cron Time"
+msgstr ""
+
+#: ../inc/admin/class_mail_tab.php:89
+msgid "Please Enter time after which Email cron job should run"
+msgstr ""
+
+#: ../inc/admin/class_nominee_tab.php:20
+msgid "Nominee"
+msgstr ""
+
+#: ../inc/admin/class_nominee_tab.php:38
+msgid "Nominee Settings"
+msgstr ""
+
+#: ../inc/admin/class_nominee_tab.php:43
+msgid "Select the Nominee By"
+msgstr ""
+
+#: ../inc/admin/class_nominee_tab.php:50
+msgid "By User"
+msgstr ""
+
+#: ../inc/admin/class_nominee_tab.php:51
+msgid "By User Role(s)"
+msgstr ""
+
+#: ../inc/admin/class_nominee_tab.php:56
+msgid "Select the User as Nominee"
+msgstr ""
+
+#: ../inc/admin/class_nominee_tab.php:57
+msgid "Here you select the users whom you wish to select the user as nominee"
+msgstr ""
+
+#: ../inc/admin/class_nominee_tab.php:67
+msgid "Select the User Role to Nominee"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:20
+msgid "Social Rewards"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:31
+msgid "Social Reward Settings"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:36
+msgid "Facebook Application ID"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:37
+msgid "Please Enter Application ID of your Facebook"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:47
+msgid "VK Application ID"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:48
+msgid "Please Enter Application ID of your VK"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:59
+msgid "Social Button Position Settings"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:61
+msgid "Here you can position the social buttons"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:65
+msgid "Social Buttons Position"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:75
+msgid "Before Single Product"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:76
+msgid "Before Single Product Summary"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:77
+msgid "Single Product Summary"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:78
+msgid "After Single Product"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:79
+msgid "After Single Product Summary"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:80
+msgid "After Product Meta End"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:84
+msgid "Social Button Position Type"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:94
+msgid "Inline"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:95
+msgid "Inline Block"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:96
+msgid "Inline Flex"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:97
+msgid "Inline Table"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:98
+msgid "Table"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:99
+msgid "Block"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:100
+msgid "Flex"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:106
+msgid "Social Button URL Settings"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:108
+msgid "Here you can Select the type of URL for Social Buttons"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:112
+msgid "Facebook URL Selection"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:122
+#: ../inc/admin/class_social_rewards_tab.php:145
+#: ../inc/admin/class_social_rewards_tab.php:168
+msgid "Default"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:123
+#: ../inc/admin/class_social_rewards_tab.php:146
+#: ../inc/admin/class_social_rewards_tab.php:169
+msgid "Custom"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:127
+msgid "Facebook Custom URL"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:128
+msgid "Enter the Custom URL that you wish to enable for Facebook"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:135
+msgid "Twitter URL Selection"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:150
+msgid "Twitter Custom URL"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:151
+msgid "Enter the Custom URL that you wish to enable for Twitter"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:158
+msgid "Google URL Selection"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:173
+msgid "Google Custom URL"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:174
+msgid "Enter the Custom URL that you wish to enable for Google"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:182
+msgid "Social Reward Points Global"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:187
+msgid "Enable SUMO Reward Points for Social Promotion"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:188
+msgid "This helps to Enable Social Reward Points in Global Level"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:202
+msgid "Facebook Like Reward Type"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:218
+msgid "Facebook Like Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:219
+msgid "Please Enter Reward Points for facebook"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:230
+msgid "Facebook Like Reward Percent %"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:231
+#: ../inc/admin/class_social_rewards_tab.php:271
+#: ../inc/admin/class_social_rewards_tab.php:311
+#: ../inc/admin/class_social_rewards_tab.php:351
+msgid "Please Enter Percentage value of Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:242
+msgid "Twitter Tweet Reward Type"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:258
+msgid "Twitter Tweet Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:259
+msgid "Please Enter Reward Points for Twitter"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:270
+msgid "Twitter Tweet Reward Percent %"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:282
+msgid "Google+1 Reward Type"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:283
+msgid "Select Social Reward Type for Google by Points/Percentage"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:298
+msgid "Google+1 Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:299
+msgid "Please Enter Reward Points for Google"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:310
+msgid "Google+1 Reward Percent %"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:322
+msgid "VK.com Like Reward Type"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:323
+msgid "Select Social Reward Type for VK by Points/Percentage"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:338
+msgid "VK.com Like Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:339
+msgid "Please Enter Reward Points for VK"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:350
+msgid "VK.com Like Reward Percent %"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:362
+msgid "Individual Setting for Social Reward Point"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:364
+msgid "Show/Hide Facebook Like Button"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:374
+#: ../inc/admin/class_social_rewards_tab.php:389
+#: ../inc/admin/class_social_rewards_tab.php:404
+#: ../inc/admin/class_social_rewards_tab.php:419
+msgid "Show"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:375
+#: ../inc/admin/class_social_rewards_tab.php:390
+#: ../inc/admin/class_social_rewards_tab.php:405
+#: ../inc/admin/class_social_rewards_tab.php:420
+msgid "Hide"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:379
+msgid "Show/Hide Twitter Tweet Button"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:394
+msgid "Show/Hide Google+1 Button"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:409
+msgid "Show/Hide VK.com Like Button"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:425
+msgid "Social Message Settings"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:430
+msgid "Show/Hide Social ToolTip for Facebook"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:445
+msgid "ToolTip Facebook Like Message"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:446
+msgid "Enter ToolTip Message for Facebook Like"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:456
+msgid "Show/Hide Social ToolTip for Twitter"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:471
+msgid "ToolTip Twitter Tweet Message "
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:472
+msgid "Enter ToolTip Message for Twitter"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:482
+msgid "Show/Hide Social ToolTip for Google+1"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:497
+msgid "ToolTip Google+1 Message "
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:498
+msgid "Enter ToolTip Message for Google+ Share"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:508
+msgid "Show/Hide Social ToolTip for VK.com"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:523
+msgid "ToolTip VK.com Like Message "
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:524
+msgid "Enter ToolTip Message for VK.com Like"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:534
+msgid "Facebook Like Success Message"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:535
+msgid "Enter the Message that will be displayed upon successful Facebook like"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:545
+msgid "Facebook Unlike Message"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:546
+msgid "Enter the Message that will be displayed upon when Facebook unlike"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:556
+msgid "Google+ Share Success Message"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:557
+msgid "Enter the Message that will be displayed upon successful Google+ Share"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:567
+msgid "Google+ UnShare Message"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:568
+msgid "Enter the Message that will be displayed upon when unshare Google+"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:578
+msgid "Twitter tweet Success Message"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:579
+msgid "Enter the Message that will be displayed upon successful Twitter Tweet"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:589
+msgid "Twitter tweet UnSuccess Message"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:590
+msgid "Enter the Message that will be displayed when tweet deleted in Twitter"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:600
+msgid "VK Like Success Message"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:601
+msgid "Enter the Message that will be displayed upon successful VK Like"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:611
+msgid "VK Unlike Message"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:612
+msgid "Enter the Message that will be displayed Unlike VK"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:623
+msgid "ToolTip Customization"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:628
+msgid "ToolTip Background Color"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:629
+msgid "Enter ToolTip Background Color"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:640
+msgid "ToolTip Text Color"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:641
+msgid "Enter ToolTip Text Color"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:653
+#: ../inc/admin/class_social_rewards_tab.php:658
+#: ../inc/admin/class_form_for_cash_back_tab.php:384
+#: ../inc/admin/class_rs_single_product_page.php:50
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/admin/class_social_rewards_tab.php:659
+msgid "Choose your Custom CSS Style for Social Sharing Buttons"
+msgstr ""
+
+#: ../inc/admin/class_import_export_tab.php:20
+msgid "Import/Export Points in CSV"
+msgstr ""
+
+#: ../inc/admin/class_import_export_tab.php:32
+msgid "Import/Export User Points in CSV Format"
+msgstr ""
+
+#: ../inc/admin/class_import_export_tab.php:37
+msgid "Export User Points for"
+msgstr ""
+
+#: ../inc/admin/class_import_export_tab.php:38
+msgid "Here you can set whether to Export Reward Points for All Users or Selected Users"
+msgstr ""
+
+#: ../inc/admin/class_import_export_tab.php:50
+msgid "Here you select the users to whom you wish to Export Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_import_export_tab.php:60
+msgid "CSV Format"
+msgstr ""
+
+#: ../inc/admin/class_import_export_tab.php:61
+msgid "Here you can set whether to Export CSV Format with Username or Userid or Emailid"
+msgstr ""
+
+#: ../inc/admin/class_import_export_tab.php:72
+msgid "Export User Points from"
+msgstr ""
+
+#: ../inc/admin/class_import_export_tab.php:73
+msgid "Here you can set whether to Export Reward Points for All Time or Selected Date"
+msgstr ""
+
+#: ../inc/admin/class_buying_reward_points.php:27
+msgid "Enable Buying of SUMO Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_buying_reward_points.php:38
+msgid "Buy Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_masterlog_tab.php:20
+#: ../inc/admin/class_masterlog_tab.php:31
+msgid "MasterLog"
+msgstr ""
+
+#: ../inc/admin/class_masterlog_tab.php:36
+msgid "Export Master Log Settings"
+msgstr ""
+
+#: ../inc/admin/class_masterlog_tab.php:42
+msgid "Export Master Log for"
+msgstr ""
+
+#: ../inc/admin/class_masterlog_tab.php:43
+msgid "Here you can set whether to Export Master Log for All Users or Selected Users"
+msgstr ""
+
+#: ../inc/admin/class_masterlog_tab.php:55
+msgid "Here you select the users to whom you wish to Export the Master Log"
+msgstr ""
+
+#: ../inc/admin/class_rewardgateway.php:13
+msgid "SUMO Reward Points Gateway"
+msgstr ""
+
+#: ../inc/admin/class_rewardgateway.php:25
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../inc/admin/class_rewardgateway.php:27
+msgid "Enable Rewards Point Gateway"
+msgstr ""
+
+#: ../inc/admin/class_rewardgateway.php:31
+msgid "Title"
+msgstr ""
+
+#: ../inc/admin/class_rewardgateway.php:33
+msgid "This Controls the Title which the user sees during checkout"
+msgstr ""
+
+#: ../inc/admin/class_rewardgateway.php:34
+msgid "SUMO Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_rewardgateway.php:38
+msgid "Description"
+msgstr ""
+
+#: ../inc/admin/class_rewardgateway.php:40
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: ../inc/admin/class_rewardgateway.php:41
+msgid "Pay with your SUMO Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_rewardgateway.php:47
+msgid "This Controls the errror message which is displayed during Checkout"
+msgstr ""
+
+#: ../inc/admin/class_rewardgateway.php:49
+msgid "You need [needpoints] Points in your Account .But You have only [userpoints] Points."
+msgstr ""
+
+#: ../inc/admin/class_rewardgateway.php:113
+msgid "Payment error:"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:20
+msgid "Form For Cash Back"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:32
+msgid "Use the Shortcode [rsencashform] to display the Cash Back Form"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:38
+msgid "Cash Back Settings"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:43
+msgid "Enable Cash Back for Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:44
+msgid "Enable this option to provide the feature to Cash Back the Reward Points earned by the Users"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:58
+msgid "Minimum Points for Cash Back of Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:59
+msgid "Enter the Minimum points that the user should have in order to Submit the Cash Back Request"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:69
+msgid "Maximum Points for Cash Back of Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:70
+msgid "Enter the Maximum points that the user should enter order to Submit the Cash Back Request"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:80
+msgid "Points for Cash Back Label"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:81
+msgid "Please Enter Points the Label for Cash Back"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:91
+msgid "Reason for Cash Back Label"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:92
+msgid "Please Enter label for Reason Cash Back"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:102
+msgid "Payment Method Label"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:103
+msgid "Please Enter Payment Method Label for Cash Back"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:113
+msgid "PayPal Email Address Label"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:114
+msgid "Please Enter PayPal Email Address Label for Cash Back"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:124
+msgid "Custom Payment Details Label"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:125
+msgid "Please Enter Custom Payment Details Label for Cash Back"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:135
+msgid "Cash Back Form Submit Button Label"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:136
+msgid "Please Enter Cash Back Form Submit Button Label "
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:147
+msgid "Message Settings"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:153
+#: ../inc/admin/class_gift_voucher_tab.php:103
+msgid "Message Displayed for Guest"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:154
+msgid "Please Enter Message Displayed for Guest"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:164
+#: ../inc/admin/class_gift_voucher_tab.php:92
+msgid "Login link for Guest Label"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:165
+#: ../inc/admin/class_gift_voucher_tab.php:93
+msgid "Please Enter Login link for Guest Label"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:175
+#: ../inc/admin/class_gift_voucher_tab.php:125
+msgid "Message Displayed for Banned Users"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:176
+msgid "Please Enter Message Displayed for Banned Users"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:186
+msgid "Message Displayed when Users dont have Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:187
+msgid "Please Enter Message to be Displayed when Users dont have Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:197
+msgid "Message Displayed when Cash Back Request is Submitted"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:198
+msgid "Please Enter Message to be Displayed when Cash Back Request is Submitted"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:209
+msgid "CSV Settings (Export CSV for Paypal Mass Payment)"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:215
+msgid "Custom Note for Paypal"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:216
+msgid "A Custom Note for Paypal"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:227
+msgid "Error Message Settings"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:233
+msgid "Error Message Displayed when Points for Cash Back Field is Empty"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:234
+msgid "Please Enter Message to be Displayed when Points for Cash Back Field is Empty"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:244
+msgid "Error Message Displayed when Points To Cash Back value is not a number"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:245
+msgid "Please Enter Message to be Displayed when Points To Cash Back Field value is not a number"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:255
+msgid "Error Message Displayed when Points entered for Cash Back is more than the Points Earned"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:256
+msgid "Please Enter Message to be Displayed when Points entered for Cash Back is more than the Points Earned"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:266
+msgid "Error Message Displayed when Current User Points is less than the Minimum points for Cash Back"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:267
+msgid "Please Enter Message to be Displayed when Points entered for Cash Back is more than the Maximum Points for Cash Back"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:277
+msgid "Error Message Displayed when Points entered to Cash Back is less than the Minimum Points and more than Maximum Points"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:278
+msgid "Please Enter Message to be Displayed when Points entered to Cash Back is less than the Minimum Points and more than Maximum Points"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:288
+msgid "Error Message Displayed when Reason To Cash Back Field is Empty"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:289
+msgid "Please Enter Message to be Displayed when Reason To Cash Back Field is Empty"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:299
+msgid "Error Message Displayed when PayPal Email Address is Empty"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:300
+msgid "Please Enter Message to be Displayed when PayPal Email Address is Empty"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:310
+msgid "Error Message Displayed when PayPal Email Address format is wrong"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:311
+msgid "Please Enter Message to be Displayed when PayPal Email Address format is wrong"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:321
+msgid "Error Message Displayed when Custom Payment Details field is Empty"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:322
+msgid "Please Enter Message to be Displayed when Custom Payment Details field is Empty"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:333
+msgid "Cash Back Form CSS Customization Settings"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:339
+msgid "Inbuilt Design"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:340
+msgid "Please Select you want to load the Inbuilt Design"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:351
+msgid "Inbuilt CSS (Non Editable)"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:352
+msgid "These are element IDs in the Shop Page "
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:372
+msgid "Custom Design"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:373
+msgid "Please Select you want to load the Custom Design"
+msgstr ""
+
+#: ../inc/admin/class_form_for_cash_back_tab.php:385
+msgid "Customize the following element of Cash Back Request form"
+msgstr ""
+
+#: ../inc/admin/class_reset_tab.php:20
+msgid "Reset"
+msgstr ""
+
+#: ../inc/admin/class_reset_tab.php:32
+msgid "Reset Setting"
+msgstr ""
+
+#: ../inc/admin/class_rs_single_product_page.php:26
+msgid "Single Product Page"
+msgstr ""
+
+#: ../inc/admin/class_rs_single_product_page.php:37
+msgid "Single Product Page Settings"
+msgstr ""
+
+#: ../inc/admin/class_rs_single_product_page.php:44
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: ../inc/admin/class_rs_single_product_page.php:51
+msgid "Enter the Custom CSS for the Cart Page "
+msgstr ""
+
+#: ../inc/admin/class_referral_reward_tab.php:20
+#: ../inc/admin/class_referral_reward_tab.php:31
+msgid "Referral Reward Table"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:20
+msgid "Gift Voucher"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:32
+msgid "Gift Voucher Creation Setting"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:42
+msgid "Gift Voucher Message settings"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:48
+msgid "Error Message when Redeem Voucher Field is empty"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:49
+msgid "Enter the Message which will be displayed when Redeem Voucher Button is clicked without entering the voucher code "
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:59
+msgid "Success Message when Gift Voucher is Redeemed"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:60
+#: ../inc/admin/class_gift_voucher_tab.php:71
+msgid "Enter the Message which will be displayed when the Gift Voucher has been Successfully Redeemed"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:70
+msgid "Error Messgae when Voucher has Expired"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:81
+msgid "Invalid Voucher Code Error Message"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:82
+msgid "Enter the Message which will be displayed when a Invalid Voucher is used for Redeeming"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:104
+msgid "Enter the Message which will be displayed for Guest when Gift Voucher Shortcode is used"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:114
+msgid "Voucher Already Used Error Mesage"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:115
+msgid "Enter the Message that will be displayed when User tries to Redeem a Voucher code that has already been Used"
+msgstr ""
+
+#: ../inc/admin/class_gift_voucher_tab.php:126
+msgid "Enter the Message that will be displayed when a Banned User tries to Redeem the Gift Voucher"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:20
+msgid "Refer A Friend"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:31
+msgid "Use this [rs_refer_a_friend] Shortcode anywhere on Page/Post to Display Refer a Friend Form"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:37
+msgid "Refer a Friend Settings"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:43
+msgid "Customization Settings"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:45
+msgid "Refer a Friend Customization Settings"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:49
+msgid "Friend Name Label"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:50
+msgid "Enter Friend Name Label which will be available in Frontend when you use shortcode"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:60
+msgid "Friend Email Label"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:61
+msgid "Enter Friend Email Label which will be available in Frontend when you use shortcode"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:71
+msgid "Friend Email Subject"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:72
+msgid "Enter Friend Subject which will be appear in Frontend when you use shortcode"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:82
+msgid "Friend Email Message"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:83
+msgid "Enter Friend Email Message which will be appear in frontend when you use shortcode"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:93
+msgid "Prefill Message for Refer a Friend"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:94
+msgid "This Message will be displayed in the Message field along with the Referral link"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:104
+msgid "Field Placeholder Settings"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:106
+msgid "Here you can customize the field Placeholder which will be appear in frontend when you use shortcode"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:110
+msgid "Friend Name Field Placeholder"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:111
+msgid "Enter Friend Name Field Placeholder which will be appear in frontend when you use shortcode"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:121
+msgid "Friend Email Field Placeholder"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:122
+msgid "Enter Friend Email Field Placeholder which will be appear in frontend when you use shortcode"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:132
+msgid "Friend Email Subject Field Placeholder"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:133
+msgid "Enter Friend Email Subject Field Placeholder which will be appear in frontend when you use shortcode"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:143
+msgid "Friend Email Message Field Placeholder"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:144
+msgid "Enter Friend Email Message Field Placeholder which will be appear in frontend when you use shortcode"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:157
+msgid "Here you can customize the Label and Placeholders"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:161
+msgid "Error Message if Friend Name is Empty"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:162
+msgid "Enter your Error Message which will be appear in frontend if the Friend Name is Empty"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:172
+msgid "Error Message if Friend Email is Empty"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:173
+msgid "Enter your Error Message which will be appear in frontend if the Friend Email is Empty"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:183
+msgid "Error Message if Friend Email is not Valid"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:184
+msgid "Enter your Error Message which will be appear in frontend if the Friend Email is not Valid"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:194
+msgid "Error Message if Email Subject is Empty"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:195
+msgid "Enter your Error Message which will be appear in frontend if the Email Subject is Empty"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:205
+msgid "Error Message if Email Message is Empty"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:206
+msgid "Enter your Error Message which will be appear in frontend if the Email Message is Empty"
+msgstr ""
+
+#: ../inc/admin/class_refer_a_friend_tab.php:224
+msgid "Enter the Custom CSS which will be applied on top of Refer a Friend Shortcode"
+msgstr ""
+
+#: ../inc/admin/class_coupon_reward_points_tab.php:20
+msgid "Coupon Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_coupon_reward_points_tab.php:32
+msgid "Coupon Reward Points Settings"
+msgstr ""
+
+#: ../inc/admin/class_coupon_reward_points_tab.php:38
+msgid "If more than one type(level) is enabled then use the highest/lowest points for the Coupons "
+msgstr ""
+
+#: ../inc/admin/class_coupon_reward_points_tab.php:46
+msgid "Use Highest Reward Points for the Coupon Codes"
+msgstr ""
+
+#: ../inc/admin/class_coupon_reward_points_tab.php:47
+msgid "Use Lowest Reward Points  for the Coupon Codes"
+msgstr ""
+
+#: ../inc/admin/class_coupon_reward_points_tab.php:52
+msgid "Coupon Reward Points Message Settings"
+msgstr ""
+
+#: ../inc/admin/class_coupon_reward_points_tab.php:58
+msgid "Coupon Applied Success Message"
+msgstr ""
+
+#: ../inc/admin/class_coupon_reward_points_tab.php:59
+msgid "This messgae will be displayed when The User applies the Selected coupons for Reward Points "
+msgstr ""
+
+#: ../inc/admin/class_wp_list_table_master_log.php:70
+msgid "Points"
+msgstr ""
+
+#: ../inc/admin/class_wp_list_table_master_log.php:71
+msgid "Event"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:39
+msgid "Reward System Message Customization "
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:41
+msgid "Customize your Message with Reward System"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:45
+msgid "List of Shortcodes"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:51
+msgid "Shop Page Messages"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:56
+msgid "Show/Hide Earn Point(s) Message for Simple Product in Shop Page "
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:71
+msgid "Earn Point(s) Message for Simple Product in Shop Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:72
+msgid "Enter the Message which will be displayed on Shop Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:82
+msgid "Message Position in Shop Page for Simple Product"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:91
+#: ../inc/admin/class_message_tab.php:193
+msgid "Before Product Price"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:92
+#: ../inc/admin/class_message_tab.php:194
+msgid "After Product Price"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:101
+msgid "Single Product Page Messages"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:106
+msgid "Show/Hide Message for Single Product Page as Points"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:121
+msgid "Message for Single Product Page as Points in Bar"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:122
+msgid "Enter the Message which will be displayed on top of Single Product Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:132
+msgid "Show/Hide Earn Points Message for Single Product Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:147
+msgid "Earn Point(s) Message for Simple Product in Single Product Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:148
+msgid "Enter the Message which will be displayed on Shop Page and Single Product Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:158
+msgid "Show/Hide Earn Points Message for Variations in Single Product Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:173
+msgid "Earn Point(s) Message for Variations (Variable Product) in Single Product Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:174
+msgid "Enter the Message which will be displayed on Variation Page of Variable Product"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:184
+msgid "Message Position in Single Product Page for Simple Product"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:199
+msgid "Show/Hide Message for each Variant (Variable Product) in Single Product Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:214
+msgid "Message for each Variant (Variable Product) in Single Product Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:215
+msgid "Enter the Message which will be displayed on top of Variable Product"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:226
+msgid "Cart Page Messages"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:231
+msgid "Success Message for Redeeming Reward Points in Cart Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:232
+msgid "Enter the Message which will be displayed when Reward Points are redeemed in cart"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:242
+msgid "Show/Hide Message for Guest in Cart Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:257
+msgid "Message for Guest in Cart Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:258
+msgid "Enter the Message which will be displayed on top of Cart Page for Guest"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:268
+msgid "Show/Hide Reward Points Message for each Products in Cart Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:283
+msgid "Message in Cart Page for each Products"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:284
+msgid "Enter the Message which will be displayed in each Products added in the Cart"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:294
+msgid "Show/Hide Total Reward Points Message in Cart Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:309
+msgid "Message in Cart Page for Completing the Total Purchase"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:310
+#: ../inc/admin/class_message_tab.php:362
+msgid "Enter the Message which will be displayed on top of Cart Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:320
+msgid "Show/Hide Your Reward Points Message in Cart Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:335
+msgid "Message in Cart Page that display Your Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:336
+msgid "Enter the Message which will be displayed on top of Cart Page with Your Reward Points "
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:346
+msgid "Show/Hide Redeemed Points Message in Cart Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:361
+msgid "Message in Cart Page that Display Redeeming Your Points"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:373
+msgid "Checkout Page Messages"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:378
+msgid "Show/Hide Message for Guest in Checkout Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:393
+msgid "Message for Guest in Checkout Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:394
+msgid "Enter the Message which will be displayed on top of Checkout Page for Guest"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:404
+msgid "Show/Hide Reward Points Message for each Products in Checkout Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:419
+msgid "Message in Checkout Page for each Products"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:420
+msgid "Enter the Message which will be displayed in each Products added in the Checkout"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:430
+msgid "Show/Hide Total Reward Points Message in Checkout Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:445
+msgid "Message in Checkout Page for Completing the Total Purchase"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:446
+#: ../inc/admin/class_message_tab.php:498
+msgid "Enter the Message which will be displayed on top of Checkout Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:456
+msgid "Show/Hide Your Reward Points Message in Checkout Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:471
+msgid "Message in Checkout Page that display Your Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:472
+msgid "Enter the Message which will be displayed on top of Checkout Page with Your Reward Points "
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:482
+msgid "Show/Hide Redeemed Points Message in Checkout Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:497
+msgid "Message in Checkout Page that Display Redeeming Your Points"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:508
+msgid "Show/Hide Payment Gateway Reward Points Message in Checkout Page"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:523
+msgid "Message for Payment Gateway Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:524
+msgid "Enter the Message for Payment Gateway Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:535
+msgid "Cart/Checkout Page Messages"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:540
+#: ../inc/admin/class_message_tab.php:541
+msgid "Error Message for Maximum Discount Type"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:551
+#: ../inc/admin/class_message_tab.php:552
+msgid "Message Displayed in Cart When the Order Contain Only Redeeming"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:563
+msgid "Unsubscribe Link Messages"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:568
+msgid "Unsubscribe Link Message for Email"
+msgstr ""
+
+#: ../inc/admin/class_message_tab.php:569
+msgid "This link is to unsubscribe your email"
+msgstr ""
+
+#: ../inc/admin/class_wp_list_table_referral_table.php:69
+msgid "Referer User Name"
+msgstr ""
+
+#: ../inc/admin/class_wp_list_table_referral_table.php:70
+msgid "Refered Person Count"
+msgstr ""
+
+#: ../inc/admin/class_wp_list_table_referral_table.php:71
+msgid "Total Referral Points"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:21
+#: ../inc/admin/class_checkout_tab.php:32
+msgid "Checkout"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:37
+msgid "Show/Hide Redeeming Field in Checkout Page"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:38
+msgid "Show/Hide Redeeming Field in Checkout Page of WooCommerce"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:52
+#: ../inc/admin/class_cart_tab.php:202
+msgid "Redeeming Field Type"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:53
+msgid "Select the type of Redeeming to used in Cart Page of WooCommerce"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:62
+#: ../inc/admin/class_cart_tab.php:212
+msgid "Button"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:67
+#: ../inc/admin/class_cart_tab.php:217
+msgid "Percentage of Cart Total to be Redeemed"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:68
+#: ../inc/admin/class_cart_tab.php:218
+msgid "Enter the Percentage of the cart total that has to be Redeemed"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:78
+msgid "Redeeming Field label"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:79
+msgid "This Text will be displayed as redeeming field label in checkout page"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:90
+msgid "Redeeming Field link label"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:91
+msgid "This Text will be displayed as redeeming field link label in checkout page"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:102
+msgid "Show/Hide Redeem It Link Call To Action"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:103
+msgid "Show/Hide Redeem It Link Call To Action in WooCommerce"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:117
+msgid "Enable Selected Products for Purchase using reward points"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:118
+msgid "Enable Products Purchase for Selceted Products Using Earned Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:127
+msgid "Select Products for Purchase Using Points"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:128
+msgid "Select Products for Purchase Using Earned Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:138
+#: ../inc/admin/class_checkout_tab.php:139
+msgid "Error Message when other products added to Cart Page"
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:150
+#: ../inc/admin/class_cart_tab.php:228
+msgid "Redeeming Button Message "
+msgstr ""
+
+#: ../inc/admin/class_checkout_tab.php:151
+#: ../inc/admin/class_cart_tab.php:229
+msgid "Enter the Message for the Redeeming Button"
+msgstr ""
+
+#: ../inc/admin/class_request_for_cash_back_tab.php:20
+msgid "Request For Cash Back"
+msgstr ""
+
+#: ../inc/admin/class_request_for_cash_back_tab.php:32
+msgid "Cash Back Request"
+msgstr ""
+
+#: ../inc/admin/class_rs_shop_page_customization.php:26
+msgid "Shop Page"
+msgstr ""
+
+#: ../inc/admin/class_rs_shop_page_customization.php:37
+msgid "Shop Page Settings"
+msgstr ""
+
+#: ../inc/admin/class_reports_in_csv_tab.php:20
+msgid "Reports in CSV"
+msgstr ""
+
+#: ../inc/admin/class_reports_in_csv_tab.php:32
+msgid "Reports in CSV Settings(CSV Exported from here cannot be Imported)"
+msgstr ""
+
+#: ../inc/admin/class_user_reward_points_tab.php:21
+#: ../inc/admin/class_user_reward_points_tab.php:32
+msgid "User Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_user_reward_points_tab.php:34
+msgid "Following List shows the Total Reward Points for each User"
+msgstr ""
+
+#: ../inc/admin/class_email_template_tab.php:20
+#: ../inc/admin/class_email_template_tab.php:31
+msgid "Email Templates"
+msgstr ""
+
+#: ../inc/admin/class_email_template_tab.php:36
+msgid "Testing"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:21
+msgid "Cart"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:52
+msgid "Apply Redeeming Before Tax"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:67
+msgid "Enable Free Shipping "
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:82
+msgid "Show/Hide Redeeming Field"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:97
+msgid "Apply Redeeming Based On"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:106
+msgid "Based On Cart Subtotal"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:107
+msgid "Based On Product Total"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:112
+#: ../inc/admin/class_cart_tab.php:113
+msgid "Enable Redeeming for Selected Product"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:121
+msgid "Select Products to enable redeeming"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:132
+#: ../inc/admin/class_cart_tab.php:133
+msgid "Exclude Products for Redeeming"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:143
+msgid "Exclude Products"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:144
+msgid "Exclude Products to enable redeeming"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:155
+#: ../inc/admin/class_cart_tab.php:156
+msgid "Enable Redeeming for Selected Category"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:166
+msgid "Select Category"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:167
+msgid "Select Category to enable redeeming"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:179
+#: ../inc/admin/class_cart_tab.php:180
+msgid "Exclude Category for Redeeming"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:189
+msgid "Exclude Category"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:190
+msgid "Exclude Category to enable redeeming"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:239
+#: ../inc/admin/class_cart_tab.php:240
+msgid "Enable Only Redeeming for Order"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:248
+msgid "Minimum Points to be Earned for Redeeming First Time"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:249
+msgid "Enter Minimum Points to be Earned for Redeeming First Time in Cart/Checkout"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:259
+msgid "Minimum Points for first time Redeeming Error Message Show/Hide"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:273
+msgid "Minimum Points for first time Redeeming Error Message"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:274
+msgid "Enter the Message which will be displayed when the user doesn't have enough points for first time redeeming"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:284
+msgid "Minimum Balance Points after First Redeeming"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:285
+msgid "Enter Minimum Balance Points for Redeeming in Cart/Checkout"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:295
+msgid "Minimum Points After first time Redeeming Error Message Show/Hide"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:309
+msgid "Minimum Points After first time Redeeming Error Message"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:310
+msgid "Enter the Message which will be displayed when the Current User doesn't have minimum points for Redeeming "
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:320
+msgid "Minimum Points for Redeeming"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:321
+msgid "Enter Minimum Points for Redeeming"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:331
+msgid "Minimum Redeem Point Error Message"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:332
+msgid "Enter the Message which will be displayed when Entered Points is less than Minimum Redeeming Points which is set in this Page"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:342
+msgid "Minimum Cart Total for Redeeming"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:343
+msgid "Enter Minimum Cart Total for Redeeming"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:353
+msgid "Minimum Cart Total for Redeeming Error Message Show/Hide"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:367
+msgid "Minimum Cart Total for Redeeming Error Message"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:368
+msgid "Enter the Message which will be displayed when current Cart total is less than minimum Cart Total for Redeeming "
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:379
+msgid "Redeem Field Caption Show/Hide"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:393
+msgid "Redeem Field Caption"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:394
+msgid "Enter the Label which will be displayed in Redeem Field"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:404
+msgid "Redeem Field Placeholder Show/Hide"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:418
+msgid "Redeem Field Placeholder"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:419
+msgid "Enter the Placeholder which will be displayed in Redeem Field"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:429
+msgid "Redeem Field Submit Button Caption"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:430
+msgid "Enter the Label which will be displayed in Submit Button"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:440
+msgid "Cart Redeem Error Settings"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:446
+msgid "Empty Redeem Point Error Message"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:447
+msgid "Enter the Message which will be displayed when Redeem Field has Empty Value"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:457
+msgid "Redeeming Contain Characters"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:458
+msgid "Enter the Message which will be displayed when redeeming field value contain characters"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:468
+msgid "Maximum Redeem Point Error Message"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:469
+msgid "Enter the Message which will be displayed when Entered Reward Points is more than Earned Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:479
+msgid "Current User Points is Empty Error Message Show/Hide"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:493
+msgid "Current User Points is Empty Error Message"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:494
+msgid "Enter the Message which will be displayed when the Current User Points is Empty"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:505
+#: ../inc/admin/class_cart_tab.php:511
+msgid "Coupon Label Settings"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:512
+msgid "Enter the Message which will be displayed in Cart Subtotal"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:523
+msgid "Extra Class Name for Button"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:529
+msgid "Extra Class Name for Cart Apply Reward Points Button"
+msgstr ""
+
+#: ../inc/admin/class_cart_tab.php:530
+msgid "Add Extra Class Name to the Cart Apply Reward Points Button, Don't Enter dot(.) before Class Name"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_variable_product.php:41
+msgid "Choose an Option."
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_variable_product.php:63
+msgid "Select Reward Rule"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_variable_product.php:84
+msgid "This Value is applicable for \"By Fixed Reward Points\" Reward Type"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_variable_product.php:97
+msgid "Reward Percent"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_variable_product.php:100
+msgid "This Value is applicable for \"By Percentage of Product Price\" Reward Type"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_variable_product.php:118
+msgid "Select Referral Reward Rule"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_variable_product.php:139
+msgid "This Value is applicable for \"By Fixed Reward Points\" Referral Referral Reward Type"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_variable_product.php:152
+msgid "Referral Reward Percent"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_variable_product.php:155
+msgid "This Value is applicable for \"By Percentage of Product Price\" Referral Reward Type"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_variable_product.php:189
+#: ../inc/admin/class_update_tab.php:138
+#: ../inc/admin/class_update_tab.php:303
+msgid "Enable will Turn On Reward Points for Product Purchase and Category/Product Settings will be considered if it is available. Disable will Turn Off Reward Points for Product Purchase and Category/Product Settings will be considered if it is available. "
+msgstr ""
+
+#: ../inc/admin/class_wp_list_table_view_log_user.php:70
+msgid "Reward For"
+msgstr ""
+
+#: ../inc/admin/class_wp_list_table_view_log_user.php:71
+msgid "Earned Points"
+msgstr ""
+
+#: ../inc/admin/class_wp_list_table_view_log_user.php:72
+msgid "Redeemed Points"
+msgstr ""
+
+#: ../inc/admin/class_wp_list_table_view_log_user.php:73
+msgid "Total Points"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:20
+msgid "Update"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:87
+msgid "Update Settings for Existing Products/Existing Categories"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:92
+#: ../inc/admin/class_update_tab.php:257
+msgid "Select Products/Categories"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:102
+#: ../inc/admin/class_update_tab.php:267
+msgid "All Products"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:103
+#: ../inc/admin/class_update_tab.php:268
+msgid "Selected Products"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:104
+#: ../inc/admin/class_update_tab.php:269
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:105
+#: ../inc/admin/class_update_tab.php:270
+msgid "Selected Categories"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:110
+#: ../inc/admin/class_update_tab.php:275
+msgid "Selected Particular Products"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:112
+#: ../inc/admin/class_update_tab.php:120
+#: ../inc/admin/class_update_tab.php:277
+#: ../inc/admin/class_update_tab.php:285
+msgid "Select Particular Categories in Reward System"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:119
+#: ../inc/admin/class_update_tab.php:284
+msgid "Select Particular Categories"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:165
+msgid "Please Enter Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:211
+msgid "Please Enter Referral Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:240
+#: ../inc/admin/class_update_tab.php:497
+#: ../inc/admin/class_update_tab.php:526
+#: ../inc/admin/class_update_tab.php:536
+msgid "Test Button"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:241
+#: ../inc/admin/class_update_tab.php:498
+msgid "This is for testing button"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:251
+msgid "Update Social Settings for Existing Products/Existing Categories"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:330
+msgid "Please Enter Reward Points for Facebook"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:344
+msgid "Facebook Like Reward Points in Percent %"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:390
+msgid "Twitter Tweet Reward Points in Percent %"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:391
+msgid "Please Enter Percentage value of Reward Points for Twitter"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:422
+msgid "Please Enter Reward Points for Google+"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:436
+msgid "Google+1 Reward Points in Percent %"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:437
+msgid "Please Enter Percentage value of Reward Points for Google+"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:482
+msgid "VK.com Like Reward Points in Percent %"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:483
+msgid "Please Enter Percentage value of Reward Points for VK"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:508
+msgid "Apply Reward Points for Previous Orders"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:510
+msgid "Here you can Apply Reward Points for Previous Orders"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:514
+msgid "Apply Points for Previous Orders"
+msgstr ""
+
+#: ../inc/admin/class_update_tab.php:527
+#: ../inc/admin/class_update_tab.php:537
+msgid "This is for Previous Order Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:20
+msgid "SMS"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:32
+msgid "SMS Setting"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:41
+msgid "Enable this checkbox to send SMS to your Users"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:45
+msgid "Select SMS API"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:46
+msgid "Here you can choose the sms sending APi"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:57
+msgid "Send SMS for Earning Points"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:61
+msgid "Enable this checkbox to send SMS When your User Earn Points"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:66
+msgid "Send SMS for Redeeming Points"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:70
+msgid "Enable this checkbox to send SMS When your User Redeems Points"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:75
+msgid "Twilio Account SID"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:76
+msgid "Enter Twilio Account Id"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:86
+msgid "Twilio Account Auth Token"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:87
+msgid "Enter Twilio Auth Token"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:97
+msgid "Twilio From Number"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:98
+msgid "Enter Twilio From Number"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:108
+msgid "Nexmo Key"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:109
+msgid "Enter Nexmo Key"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:119
+msgid "Nexmo  Secret"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:120
+msgid "Enter Nexmo Secret"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:130
+msgid "SMS Content"
+msgstr ""
+
+#: ../inc/admin/class_sms_tab.php:131
+msgid "Enter the SMS Content Here"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:19
+msgid "Reward Points For Action"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:30
+msgid "Reward Points for Action Settings"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:35
+msgid "Enable Reward Points for Account Signup after first purchase"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:36
+msgid "Enable the Reward Points that will be earned for Account Signup after first purchase"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:45
+msgid "Reward Points for Account Signup"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:46
+msgid "Please Enter the Reward Points that will be earned for Account Signup"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:58
+msgid "Restrict Reward Points for One Review per Product per Member"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:59
+msgid "Restrict the Reward Points for Review a Product per User"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:67
+msgid "Reward Points for Product Review"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:68
+msgid "Please Enter the Reward Points that will be earned for Reviewing a Product"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:80
+msgid "Enable Referral Reward Points for Account Signup after first purchase"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:81
+msgid "Enable the Referral Reward Points that will be earned for Account Signup after first purchase"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:90
+msgid "Referral Reward Points for Account Signup"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:91
+msgid "Please Enter the Referral Reward Points that will be earned for Account Signup"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:104
+msgid "Reward Points for login"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:106
+msgid "Reward Points for the following actions"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:110
+#: ../inc/admin/class_reward_points_for_action.php:111
+msgid "Enable Reward Points for login once per day"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:120
+msgid "Reward Points for login once per day"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:121
+msgid "Please Enter the Reward Points that will be earned for login once per day"
+msgstr ""
+
+#: ../inc/admin/class_reward_points_for_action.php:132
+msgid "Payment Gateway Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:20
+msgid "Category Settings for Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:22
+#: ../inc/admin/class_admin_settings_for_category_field.php:195
+#: ../inc/admin/class_admin_settings_for_simple_product.php:43
+msgid "Enable SUMO Reward Points for Product Purchase"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:28
+#: ../inc/admin/class_admin_settings_for_category_field.php:79
+#: ../inc/admin/class_admin_settings_for_category_field.php:202
+#: ../inc/admin/class_admin_settings_for_category_field.php:269
+msgid "Category Settings will be considered when Product Settings is Enabled and Values are Empty. Priority Order is Product Settings, Category Settings and Global Settings in the Same Order. "
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:42
+#: ../inc/admin/class_admin_settings_for_category_field.php:48
+#: ../inc/admin/class_admin_settings_for_category_field.php:61
+#: ../inc/admin/class_admin_settings_for_category_field.php:67
+#: ../inc/admin/class_admin_settings_for_category_field.php:95
+#: ../inc/admin/class_admin_settings_for_category_field.php:100
+#: ../inc/admin/class_admin_settings_for_category_field.php:117
+#: ../inc/admin/class_admin_settings_for_category_field.php:136
+#: ../inc/admin/class_admin_settings_for_category_field.php:141
+#: ../inc/admin/class_admin_settings_for_category_field.php:155
+#: ../inc/admin/class_admin_settings_for_category_field.php:160
+#: ../inc/admin/class_admin_settings_for_category_field.php:220
+#: ../inc/admin/class_admin_settings_for_category_field.php:228
+#: ../inc/admin/class_admin_settings_for_category_field.php:246
+#: ../inc/admin/class_admin_settings_for_category_field.php:254
+#: ../inc/admin/class_admin_settings_for_category_field.php:288
+#: ../inc/admin/class_admin_settings_for_category_field.php:296
+#: ../inc/admin/class_admin_settings_for_category_field.php:316
+#: ../inc/admin/class_admin_settings_for_category_field.php:324
+#: ../inc/admin/class_admin_settings_for_category_field.php:344
+#: ../inc/admin/class_admin_settings_for_category_field.php:352
+#: ../inc/admin/class_admin_settings_for_category_field.php:372
+#: ../inc/admin/class_admin_settings_for_category_field.php:380
+msgid "When left empty, Product and Global Settings will be considered in the same order and Current Settings (Category Settings) will be ignored. When value greater than or equal to 0 is entered then Current Settings (Category Settings) will be considered and Product/Global Settings will be ignored"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:46
+#: ../inc/admin/class_admin_settings_for_category_field.php:65
+msgid "Reward Percent in %"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:276
+msgid "Social Reward Type for Facebook"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:285
+msgid "Social Facebook Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:293
+msgid "Social Facebook Reward in Percent %"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:304
+msgid "Social Reward Type for Twitter"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:313
+msgid "Social Twitter Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:321
+msgid "Social Twitter Reward in Percent %"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:332
+msgid "Social Reward Type for Google"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:341
+msgid "Social Google Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:349
+msgid "Social Google Reward in Percent %"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:360
+msgid "Social Reward Type for VK"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:369
+msgid "Social VK Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_category_field.php:377
+msgid "Social VK Reward in Percent %"
+msgstr ""
+
+#: ../inc/admin/class_troubleshoot_tab.php:20
+msgid "Troubleshoot"
+msgstr ""
+
+#: ../inc/admin/class_troubleshoot_tab.php:32
+msgid "Troubleshoot Setting"
+msgstr ""
+
+#: ../inc/admin/class_troubleshoot_tab.php:37
+msgid "Troubleshoot Option for Cart Page"
+msgstr ""
+
+#: ../inc/admin/class_troubleshoot_tab.php:39
+msgid "Here you can select the Options for Different Hooks for your theme"
+msgstr ""
+
+#: ../inc/admin/class_troubleshoot_tab.php:43
+msgid "Troubleshoot Before Cart Hook"
+msgstr ""
+
+#: ../inc/admin/class_troubleshoot_tab.php:44
+msgid "Here you can select the different hooks in Cart Page"
+msgstr ""
+
+#: ../inc/admin/class_troubleshoot_tab.php:55
+msgid "Troubleshoot After Cart Hook for Position of Redeem Points Field"
+msgstr ""
+
+#: ../inc/admin/class_troubleshoot_tab.php:56
+msgid "Here you can select the Redeem Point Position Options for Cart Page"
+msgstr ""
+
+#: ../inc/admin/class_troubleshoot_tab.php:67
+msgid "Troubleshoot load Tipsy jQuery settings"
+msgstr ""
+
+#: ../inc/admin/class_troubleshoot_tab.php:68
+msgid "Here you can select to change the load load tipsy option if some jQuery conflict occurs"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:21
+#: ../inc/admin/class_myaccount_tab.php:32
+msgid "My Account"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:38
+msgid "[rs_generate_referral referralbutton=\"show\" referraltable=\"show\"] - Use this Shortcode for displaying Referral Link Generation and its Table"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:55
+msgid "Nominee Settings in My Account Page"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:61
+msgid "Show/Hide Nominee Field"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:74
+msgid "My Nominee Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:75
+msgid "Enter the My Nominee Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:86
+msgid "Generate Referral Link Settings"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:92
+msgid "Show/Hide Generate Referral Link"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:105
+msgid "Generate Referral Link based on User Name/User ID"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:114
+msgid "User ID"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:119
+msgid "Type of Referral Link to be Displayed"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:128
+msgid "Static Url"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:132
+msgid "Prefill Generate Referral Link"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:140
+msgid "Static Referral Link"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:150
+msgid "My Account Gift Voucher Redeem Table"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:156
+msgid "Show/Hide Gift Voucher Field"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:170
+msgid "Voucher Field Position"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:179
+msgid "Before My Account"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:180
+msgid "After My Account"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:185
+msgid "Show/Hide Your Subscribe Link Setting in My Account Page"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:191
+msgid "Show/Hide Your Subscribe Link"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:205
+msgid "Unsubscribe field Caption"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:206
+msgid "Enter the text that will be displayed as the Unsubscribe field Caption"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:217
+msgid "My Account Reward Table Settings"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:223
+msgid "Points Log Sorting"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:232
+msgid "Ascending Order"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:233
+msgid "Descending Order"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:237
+msgid "Show/Hide My CashBack Table"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:252
+msgid "Show/Hide My Rewards Table"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:267
+msgid "Show/Hide Search Box in My Rewards Table"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:282
+msgid "Show/Hide Page Size in My Rewards Table"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:299
+msgid "My CashBack Table Label Settings"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:305
+msgid "My CashBack Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:306
+msgid "Enter the My CashBack Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:316
+#: ../inc/admin/class_myaccount_tab.php:401
+msgid "S.No Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:317
+#: ../inc/admin/class_myaccount_tab.php:402
+msgid "Enter the Serial Number Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:327
+#: ../inc/admin/class_myaccount_tab.php:412
+msgid "User Name Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:328
+#: ../inc/admin/class_myaccount_tab.php:413
+msgid "Enter the User Name Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:338
+msgid "Requested for CashBack Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:339
+msgid "Enter the Requested for CashBack Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:349
+msgid "Status Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:350
+msgid "Enter the Status On Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:360
+msgid "Action Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:361
+msgid "Enter the Action On Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:373
+msgid "My Reward Table Label Settings"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:379
+msgid "My Rewards Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:380
+msgid "Enter the My Rewards Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:390
+#: ../inc/admin/class_myaccount_tab.php:456
+msgid "Total Points Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:391
+#: ../inc/admin/class_myaccount_tab.php:457
+msgid "Enter the Total Points Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:423
+msgid "Reward for Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:424
+msgid "Enter the Reward for Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:434
+msgid "Earned Points Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:435
+msgid "Enter the Earned Points Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:445
+msgid "Redeemed Points Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:446
+msgid "Enter the Redeemed Points Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:467
+msgid "Earned Date Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:468
+msgid "Enter the Date Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:478
+msgid "Point Expired On"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:479
+msgid "Enter the Point Expired On Label"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:496
+msgid "Extra Class Name for Generate Referral Link Button"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:497
+msgid "Add Extra Class Name to the My Account Generate Referral Link Button, Don't Enter dot(.) before Class Name"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:507
+msgid "Extra Class Name for Redeem Gift Voucher Button"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:508
+msgid "Add Extra Class Name to the My Account Redeem Gift Voucher Button, Don't Enter dot(.) before Class Name"
+msgstr ""
+
+#: ../inc/admin/class_myaccount_tab.php:526
+msgid "Enter the Custom CSS for My Account Page"
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_simple_product.php:68
+#: ../inc/admin/class_admin_settings_for_simple_product.php:80
+#: ../inc/admin/class_admin_settings_for_simple_product.php:102
+#: ../inc/admin/class_admin_settings_for_simple_product.php:114
+#: ../inc/admin/class_admin_settings_for_simple_product.php:159
+#: ../inc/admin/class_admin_settings_for_simple_product.php:171
+#: ../inc/admin/class_admin_settings_for_simple_product.php:195
+#: ../inc/admin/class_admin_settings_for_simple_product.php:207
+#: ../inc/admin/class_admin_settings_for_simple_product.php:230
+#: ../inc/admin/class_admin_settings_for_simple_product.php:242
+#: ../inc/admin/class_admin_settings_for_simple_product.php:265
+#: ../inc/admin/class_admin_settings_for_simple_product.php:277
+msgid "When left empty, Category and Global Settings will be considered in the same order and Current Settings (Product Settings) will be ignored. When value greater than or equal to 0 is entered then Current Settings (Product Settings) will be considered and Category/Global Settings will be ignored.  "
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_simple_product.php:131
+msgid "Enable will Turn On Reward Points for Product Purchase and Category/Global Settings will be considered when applicable. Disable will Turn Off Reward Points for Product Purchase and Category/Global Settings will not be considered. "
+msgstr ""
+
+#: ../inc/admin/class_admin_settings_for_simple_product.php:267
+msgid "VK.com Like Reward Points "
+msgstr ""
+
+#: ../inc/admin/main_functions_for_point_expiry.php:4353
+msgid "Guest"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:20
+msgid "Localization"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:32
+msgid "Localization Setting"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:37
+msgid "Referral Log Localization"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:39
+msgid "Referral Log Information for the localization options"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:44
+msgid "Localize your Referral Reward Points earned for Purchase"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:55
+msgid "Reward Points Log for user login"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:57
+msgid "Reward Points Log Information for user login"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:61
+msgid "Points earned for login once per day "
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:62
+msgid "Localize Reward Points earned for login once per day "
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:74
+msgid "Product Purchase Log Localization"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:76
+msgid "Product Purchase Log Information for localization options"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:80
+msgid "Points earned for Purchase "
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:81
+msgid "Localize Reward Points earned for purchase log"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:91
+msgid "Points earned for Purchase --> Main"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:92
+msgid "Localize Points earned for Purchase -->Main"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:103
+msgid "Product Redeeming Settings"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:105
+msgid "Product Redeeming Log Information for localization options"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:109
+msgid "Points Redeemed Towards Purchase"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:110
+msgid "Localize Redeeming Towards Purchase log Information"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:121
+#: ../inc/admin/class_localization_tab.php:123
+msgid "Registration Reward Points Log Settings"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:127
+msgid "Points Earned for Registration"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:128
+msgid "Localize the Points Earned for Registration Message"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:138
+msgid "Points Earned for Referral Registration"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:139
+msgid "Localize the Points Earned for Referral Registration Message"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:150
+msgid "Product Review Log Settings"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:152
+msgid "Localize Product Review Log Settings"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:156
+msgid "Points Earned for Product Review"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:157
+msgid "Localize Points Earned for Product Review Message"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:168
+msgid "Revise Referral Purchase Log Message"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:170
+msgid "Localize Revise Referral Purchased Log Message"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:174
+msgid "Revise Referral Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:175
+msgid "Localize Revise Referral Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:186
+msgid "Revise Purchase Log Message"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:188
+msgid "Localize Revise Purchased Log Message"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:192
+msgid "Revise Product Purchase"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:193
+#: ../inc/admin/class_localization_tab.php:204
+msgid "Localize Revise Product Purchase for Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:203
+msgid "Revise Product Purchase --> Main"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:215
+msgid "Revised Product Redeeming Settings"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:217
+msgid "Localize Revised Product Redeeming Settings"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:221
+msgid "Revised Points Redeemed Towards Purchase"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:222
+msgid "Localize your Revised Points Redeemed Towards Purchase"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:233
+msgid "Revised Points on Deleting Referral Registration Settings"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:235
+msgid "Localize Revised Points for Deleted Referral User Settings"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:239
+msgid "Referral Account Signup Points Revised"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:240
+msgid "Localize Referral Account Signup Points Revised Option"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:250
+msgid "Revised Points for Referral Purchase"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:251
+msgid "Localize Revised Points for Referral Purchase Message"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:262
+msgid "Social Rewards Localization Settings"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:267
+msgid "Reward for Social Facebook Like"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:268
+msgid "Localize Reward for Social Facebook Like"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:278
+msgid "Reward for Social Twitter Tweet"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:279
+msgid "Localize Reward for Social Twitter Tweet"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:289
+msgid "Reward for Social Google Plus"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:290
+msgid "Localize Reward for Social Google+"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:300
+msgid "Reward for Social VK.Com Like"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:301
+msgid "Localize Reward for Social VK.Com Like"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:312
+msgid "Revision of Social Rewards Localization"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:317
+msgid "Reward for Social Facebook Like is Revised"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:318
+msgid "Localize Revised Reward for Social Facebook Like "
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:328
+msgid "Reward for Social Google Plus is Revised"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:329
+msgid "Localize Revised Reward for Social Google Plus "
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:340
+msgid "Reward for Social VK.Com Like is Revised"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:341
+msgid "Localize Revised Reward for Social VK.Com Like"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:352
+msgid "Payment Gateway Reward Points Message"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:357
+msgid "Reward for Using Payment Gateway"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:358
+msgid "Localize Reward for Using Payment Gateway"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:368
+msgid "Revised Reward Points for Using Payment Gateway "
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:369
+msgid "Localize Revised Reward Points for Using Payment Gateway"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:380
+#: ../inc/admin/class_localization_tab.php:385
+msgid "Voucher Code Log Localization"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:386
+msgid "Localize Voucher Code Log Message in SUMO Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:397
+#: ../inc/admin/class_localization_tab.php:402
+msgid "Buying Reward Points Log Localization"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:403
+msgid "Localize Buying Reward Points Log"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:414
+#: ../inc/admin/class_localization_tab.php:419
+msgid "Coupon Reward Points Log Localization"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:420
+msgid "Localize Coupon Reward Points Log"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:431
+msgid "Maximum Earning Points For User Log Localization"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:436
+msgid "Log to be Displayed When User Restricted to Maximum Earning Points"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:437
+msgid "Localize Maximum Earnin Points Log"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:448
+msgid "Reward Points Gateway Log Localization"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:453
+msgid "Reward Points Gateway Log Localization Message"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:454
+msgid "Localize Reward Points Gateway Points Log"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:466
+msgid "Point To Cash Back Log Localization"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:471
+msgid "Log to be Displayed When User Request Cash Back for their Reward Points"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:472
+#: ../inc/admin/class_localization_tab.php:494
+msgid "Localize Points To Cash Back Log"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:482
+msgid "Log to be Displayed When User Request Cash Back Cancelled"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:483
+msgid "Revised Localize Points To Cash Back Log"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:493
+msgid "Log to be Displayed in My CashBack Table For User When they Request For Cash Back"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:506
+msgid "Nominee Log Localization"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:511
+msgid "Log to be Displayed for Nominee in My Account Page"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:512
+msgid "Entered Log will be displayed in My Account Page of Nominee"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:522
+msgid "Log to be Displayed for Nominated User in My Account Page"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:523
+msgid "Entered Log will be displayed in My Account Page of Nominated User"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:536
+msgid "Import/Export Log Localization"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:541
+msgid "Log to be Displayed When Import Points Added with Existing Points"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:542
+msgid "Entered Log will be displayed in My Account Page of When Import Points Added with Existing Points"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:552
+msgid "Log to be Displayed When Import Points Override Existing Points"
+msgstr ""
+
+#: ../inc/admin/class_localization_tab.php:553
+msgid "Entered Log will be displayed in My Account Page of When Import Points Overrided"
+msgstr ""
+
+#: ../inc/admin/class_manuall_referral_link_tab.php:20
+msgid "Manual Referral Link"
+msgstr ""
+
+#: ../inc/admin/class_manuall_referral_link_tab.php:32
+msgid "Manual Referral Link Setting"
+msgstr ""
+
+#: ../inc/admin/class_wp_list_table_for_users.php:70
+msgid "User Email"
+msgstr ""
+
+#: ../inc/admin/class_wp_list_table_for_users.php:72
+msgid "View"
+msgstr ""
+
+#: ../inc/admin/class_status_tab.php:20
+msgid "Status"
+msgstr ""
+
+#: ../inc/admin/class_status_tab.php:56
+msgid "Status Setting"
+msgstr ""
+
+#: ../inc/admin/class_status_tab.php:61
+msgid "Status on which Reward Points for Product Review should be applied"
+msgstr ""
+
+#: ../inc/admin/class_status_tab.php:62
+msgid "Here you can set on which Status Reward Points for Product Review should be applied"
+msgstr ""
+
+#: ../inc/admin/class_status_tab.php:73
+msgid "Reward Points awarded when Order Status is"
+msgstr ""
+
+#: ../inc/admin/class_status_tab.php:74
+msgid "Here you can set Reward Points should awarded on which Status of Order"
+msgstr ""
+
+#: ../inc/admin/class_status_tab.php:85
+msgid "After Successful payment with SUMO Reward Points Gateway the order status becomes "
+msgstr ""
+
+#: ../inc/admin/class_status_tab.php:86
+msgid "Here you can set what should be the order status after successful payment with SUMO Reward Points Gateway"
+msgstr ""
+
+#: ../inc/admin/class_wp_list_table_view_referral_table.php:69
+msgid "Referral User Name"
+msgstr ""
+
+#: ../inc/admin/class_order_tab.php:20
+msgid "Order"
+msgstr ""
+
+#: ../inc/admin/class_order_tab.php:32
+msgid "Order Setting"
+msgstr ""
+
+#: ../inc/admin/class_order_tab.php:37
+#: ../inc/admin/class_order_tab.php:38
+msgid "Enable Message for Earned Points"
+msgstr ""
+
+#: ../inc/admin/class_order_tab.php:46
+#: ../inc/admin/class_order_tab.php:47
+msgid "Message For Earned Points"
+msgstr ""
+
+#: ../inc/admin/class_order_tab.php:57
+#: ../inc/admin/class_order_tab.php:58
+msgid "Enable Message for Redeem Points"
+msgstr ""
+
+#: ../inc/admin/class_order_tab.php:66
+#: ../inc/admin/class_order_tab.php:67
+msgid "Message For Redeem Points"
+msgstr ""
+
+#: ../inc/admin/class_add_remove_points_tab.php:21
+#: ../inc/admin/class_add_remove_points_tab.php:32
+msgid "Add/Remove Reward Points"
+msgstr ""
+
