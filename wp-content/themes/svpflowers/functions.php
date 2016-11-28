@@ -1056,25 +1056,28 @@ function calculate_subscription_first_payment_date($first_payment, $product, $ty
 	
 	// if it's Wednesday and the precalculated first payment date is less than the 'from' date, then add seven days
 	// to the first payment date.
+	
+	$fpayment=date('d-m-Y H:i:s', $first_payment_date->getTimestamp());
+		//$fpayment="14-11-2016 ".date('H:i:s');
+		$dt = new DateTime($fpayment); 
+		// $dt->modify('+5 minutes');
+		// $dt->modify('next wednesday');
+		 $dt->setTime(13, 00, 00);
+		 
+		 $first_payment=$dt->getTimestamp();
+	
+	
 	if ($first_payment_day_of_week === 'Wednesday' && ( $first_payment_date->getTimestamp() < strtotime($from_date) ) )
 	{
 		error_log("Correcting first payment date");
 		/*$future_date = date_add($first_payment_date, date_interval_create_from_date_string('7 days'));
 		$first_payment = $future_date->getTimestamp();*/
 		
-		// New code by prabhat for adjust time
-		$dt = new DateTime($first_payment_date);
-		$dt->modify('+7 days');
-		$dt->setTime(8, 00, 00);
+		$fpaymentdate=date('d-m-Y H:i:s', $first_payment_date->getTimestamp());
+		$dt = new DateTime($fpaymentdate);
+		//$dt->modify('+7 days');
+		$dt->setTime(13, 00, 00);
 		$first_payment=$dt->getTimestamp();
-		
-		//For Testing email
-		$to = "prabhat.thakur@effectualtech.com";
-
-		$message = "Successfully Test \n";
-		$message .= "Customer Info:\n";
-		$subject = "Adjust Time".date("d-m-Y h:m:s");
-		wp_mail($to, $subject, $message);
 		
 		log_("Corrected first payment date:", $first_payment);
 	}
@@ -1082,6 +1085,7 @@ function calculate_subscription_first_payment_date($first_payment, $product, $ty
 	return $first_payment;
 		
 }
+
 
 
 // add Referral section to My Account

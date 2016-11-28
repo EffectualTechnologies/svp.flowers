@@ -13,10 +13,20 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 $display_th = true;
 
+global $productidss;
+
+
 ?>
 
 			<tr class="recurring-totals">
-				<th colspan="2"><?php esc_html_e( 'Recurring Totals', 'woocommerce-subscriptions' ); ?></th>
+				<th colspan="2"><?php
+					if(isset($productidss) && in_array(11988,$productidss)) {
+				 	esc_html_e( 'Cart Totals', 'woocommerce-subscriptions' );
+				 	} else {
+				 	esc_html_e( 'Recurring Totals', 'woocommerce-subscriptions' );
+				 	}
+				 
+				  ?></th>
 			</tr>
 
 			<?php foreach ( $recurring_carts as $recurring_cart_key => $recurring_cart ) : ?>
@@ -102,9 +112,17 @@ $display_th = true;
 			<?php endif; ?>
 			<tr class="order-total recurring-total">
 				<?php if ( $display_th ) : $display_th = false; ?>
-				<th rowspan="<?php echo esc_attr( $carts_with_multiple_payments ); ?>"><?php esc_html_e( 'Recurring Total', 'woocommerce-subscriptions' ); ?></th>
+				<th rowspan="<?php echo esc_attr( $carts_with_multiple_payments ); ?>"><?php 				if(isset($productidss) && in_array(11988,$productidss)) {
+				esc_html_e( 'Total', 'woocommerce-subscriptions' );
+				} else {
+				esc_html_e( 'Recurring Total', 'woocommerce-subscriptions' );
+				}
+				
+				 ?></th>
 				<?php endif; ?>
-				<td><?php wcs_cart_totals_order_total_html( $recurring_cart ); ?></td>
+				<td><?php 
+								
+				wcs_cart_totals_order_total_html( $recurring_cart ); ?></td>
 			</tr>
 		<?php endforeach; ?>
 

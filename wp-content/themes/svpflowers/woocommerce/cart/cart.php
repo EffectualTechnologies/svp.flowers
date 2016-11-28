@@ -10,7 +10,9 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly
 }
-
+global $productidss;
+		
+		
 wc_print_notices();
 
 do_action( 'woocommerce_before_cart' ); ?>
@@ -34,9 +36,12 @@ do_action( 'woocommerce_before_cart' ); ?>
 		<?php do_action( 'woocommerce_before_cart_contents' ); ?>
 
 		<?php
+		
+		
 		foreach ( WC()->cart->get_cart() as $cart_item_key => $cart_item ) {
 			$_product     = apply_filters( 'woocommerce_cart_item_product', $cart_item['data'], $cart_item, $cart_item_key );
 			$product_id   = apply_filters( 'woocommerce_cart_item_product_id', $cart_item['product_id'], $cart_item, $cart_item_key );
+			$productidss[]=$product_id;
 
 			if ( $_product && $_product->exists() && $cart_item['quantity'] > 0 && apply_filters( 'woocommerce_cart_item_visible', true, $cart_item, $cart_item_key ) ) {
 				?>
@@ -100,7 +105,16 @@ do_action( 'woocommerce_before_cart' ); ?>
 
 					<td class="product-subtotal">
 						<?php
-							echo apply_filters( 'woocommerce_cart_item_subtotal', WC()->cart->get_product_subtotal( $_product, $cart_item['quantity'] ), $cart_item, $cart_item_key );
+							$stprice=apply_filters( 'woocommerce_cart_item_subtotal', WC()->cart->get_product_subtotal( $_product, $cart_item['quantity'] ), $cart_item, $cart_item_key );
+global $productIDs;						
+				if(in_array($product_id,$productIDs)) {			
+				$stpricestring = @str_replace( ' every Wednesday', '', $stprice );
+				$stpricestring = @str_replace( ' with 1 week free trial', '', $stpricestring );
+				
+				} else {
+				$stpricestring = $stprice;
+				}
+							echo $stpricestring;
 						?>
 					</td>
 				</tr>
@@ -144,7 +158,13 @@ do_action( 'woocommerce_before_cart' ); ?>
 
 <div class="cart-collaterals">
 
-	<?php do_action( 'woocommerce_cart_collaterals' ); ?>
+	<?php
+
+//print_r($productidss);
+
+	 do_action( 'woocommerce_cart_collaterals' ); 
+	 
+	 ?>
 
 </div>
 
